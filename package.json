@@ -1,27 +1,44 @@
 {
-  "name": "mydoc.site",
+  "name": "root",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.4.7"
+    "build": "turbo run build",
+    "clean": "turbo run clean",
+    "dev": "turbo run dev",
+    "dev:all": "turbo run dev --filter=!./examples/*",
+    "dev:examples": "turbo run dev --filter=./examples/*",
+    "lint": "turbo run lint",
+    "lint:prettier": "prettier --cache --check --ignore-path .gitignore --ignore-path .prettierignore .",
+    "prettier": "prettier --cache --write --list-different --ignore-path .gitignore --ignore-path .prettierignore .",
+    "release": "turbo run build --filter=./packages/* && changeset publish && pnpm -r run postpublish",
+    "test": "vitest",
+    "types:check": "turbo run types:check",
+    "version": "changeset version && pnpm install --lockfile-only"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
-    "eslint": "^9",
-    "eslint-config-next": "15.4.7",
-    "@eslint/eslintrc": "^3"
+    "@changesets/cli": "^2.29.6",
+    "@eslint/js": "^9.33.0",
+    "bun": "^1.2.20",
+    "concurrently": "^9.2.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "5.2.0",
+    "eslint-plugin-tailwindcss": "^3.18.2",
+    "prettier": "^3.6.2",
+    "prettier-plugin-astro": "^0.14.1",
+    "rimraf": "^6.0.1",
+    "tsup": "8.5.0",
+    "turbo": "2.5.6",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.40.0",
+    "vitest": "^3.2.4"
+  },
+  "packageManager": "pnpm@9.14.4",
+  "engines": {
+    "node": ">= 18.17.0"
+  },
+  "dependencies": {
+    "fumadocs-mdx": "^11.7.5"
   }
 }

@@ -1,0 +1,5 @@
+
+
+> fumadocs-openapi@9.2.0 build /home/tom/www2026/8_server/vercel/fumadocs/packages/openapi
+> tsc --project tsconfig.build.json && tsc-alias -p tsconfig.build.json
+

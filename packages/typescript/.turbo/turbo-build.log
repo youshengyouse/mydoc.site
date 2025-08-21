@@ -1,0 +1,20 @@
+
+
+> fumadocs-typescript@4.0.6 build /home/tom/www2026/8_server/vercel/fumadocs/packages/typescript
+> tsup
+
+[34mCLI[39m Building entry: src/index.ts, src/ui/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/tom/www2026/8_server/vercel/fumadocs/packages/typescript/tsup.config.ts
+[34mCLI[39m Target: es6
+[34mESM[39m Build start
+[32mESM[39m [1mdist/index.js          [22m[32m12.49 KB[39m
+[32mESM[39m [1mdist/ui/index.js       [22m[32m1.80 KB[39m
+[32mESM[39m [1mdist/chunk-C45FGSN3.js [22m[32m2.50 KB[39m
+[32mESM[39m ⚡️ Build success in 43ms
+DTS Build start
+DTS ⚡️ Build success in 5478ms
+DTS dist/index.d.ts         2.36 KB
+DTS dist/ui/index.d.ts      647.00 B
+DTS dist/base-CDpZg096.d.ts 3.20 KB

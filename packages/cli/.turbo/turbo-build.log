@@ -1,0 +1,18 @@
+
+
+> @fumadocs/cli@1.0.0 build /home/tom/www2026/8_server/vercel/fumadocs/packages/cli
+> tsup
+
+[34mCLI[39m Building entry: src/index.ts, src/build/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/tom/www2026/8_server/vercel/fumadocs/packages/cli/tsup.config.ts
+[34mCLI[39m Target: node20
+[34mESM[39m Build start
+[32mESM[39m [1mdist/index.js       [22m[32m20.54 KB[39m
+[32mESM[39m [1mdist/build/index.js [22m[32m11.91 KB[39m
+[32mESM[39m ⚡️ Build success in 37ms
+DTS Build start
+DTS ⚡️ Build success in 2878ms
+DTS dist/index.d.ts       20.00 B
+DTS dist/build/index.d.ts 4.47 KB

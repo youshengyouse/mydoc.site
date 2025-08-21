@@ -1,0 +1,20 @@
+{
+  "node": {
+    "60dbfb62903a0b154a5f41e48bc9ad7b36dcba19c4": {
+      "workers": {
+        "app/(home)/page": {
+          "moduleId": "[project]/apps/docs/.next-internal/server/app/(home)/page/actions.js { ACTIONS_MODULE0 => \"[project]/apps/docs/lib/github.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "apps/docs/lib/github.ts"
+        }
+      },
+      "layer": {
+        "app/(home)/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "apps/docs/lib/github.ts"
+    }
+  },
+  "edge": {}
+}

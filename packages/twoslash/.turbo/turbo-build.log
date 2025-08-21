@@ -1,0 +1,21 @@
+
+
+> fumadocs-twoslash@3.1.6 build /home/tom/www2026/8_server/vercel/fumadocs/packages/twoslash
+> tsup
+
+[34mCLI[39m Building entry: src/cache-fs.ts, src/index.ts, src/ui/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/tom/www2026/8_server/vercel/fumadocs/packages/twoslash/tsup.config.ts
+[34mCLI[39m Target: es6
+[34mESM[39m Build start
+[32mESM[39m [1mdist/cache-fs.js       [22m[32m1.09 KB[39m
+[32mESM[39m [1mdist/chunk-ORMEWXMH.js [22m[32m1.30 KB[39m
+[32mESM[39m [1mdist/ui/index.js       [22m[32m2.94 KB[39m
+[32mESM[39m [1mdist/index.js          [22m[32m4.19 KB[39m
+[32mESM[39m ⚡️ Build success in 24ms
+DTS Build start
+DTS ⚡️ Build success in 5198ms
+DTS dist/cache-fs.d.ts 493.00 B
+DTS dist/index.d.ts    893.00 B
+DTS dist/ui/index.d.ts 762.00 B

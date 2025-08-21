@@ -1,0 +1,19 @@
+
+
+> @fumadocs/content-collections@1.2.1 build /home/tom/www2026/8_server/vercel/fumadocs/packages/content-collections
+> tsup
+
+[34mCLI[39m Building entry: src/configuration.ts, src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/tom/www2026/8_server/vercel/fumadocs/packages/content-collections/tsup.config.ts
+[34mCLI[39m Target: esnext
+[34mESM[39m Build start
+[32mESM[39m [1mdist/index.js          [22m[32m384.00 B[39m
+[32mESM[39m [1mdist/chunk-MLKGABMK.js [22m[32m191.00 B[39m
+[32mESM[39m [1mdist/configuration.js  [22m[32m410.90 KB[39m
+[32mESM[39m ⚡️ Build success in 82ms
+DTS Build start
+DTS ⚡️ Build success in 2020ms
+DTS dist/configuration.d.ts 3.14 KB
+DTS dist/index.d.ts         446.00 B

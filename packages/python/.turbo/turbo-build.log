@@ -1,0 +1,18 @@
+
+
+> fumadocs-python@0.0.3 build /home/tom/www2026/8_server/vercel/fumadocs/packages/python
+> tsup
+
+[34mCLI[39m Building entry: src/index.ts, src/components/index.tsx
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/tom/www2026/8_server/vercel/fumadocs/packages/python/tsup.config.ts
+[34mCLI[39m Target: es2022
+[34mESM[39m Build start
+DTS Build start
+[32mESM[39m [1mdist/index.js            [22m[32m5.77 KB[39m
+[32mESM[39m [1mdist/components/index.js [22m[32m8.73 KB[39m
+[32mESM[39m ⚡️ Build success in 2025ms
+DTS ⚡️ Build success in 4373ms
+DTS dist/index.d.ts            2.47 KB
+DTS dist/components/index.d.ts 919.00 B

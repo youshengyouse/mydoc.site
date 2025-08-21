@@ -1,0 +1,11 @@
+{
+  "[project]/apps/docs/components/search.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/apps/docs/components/search.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/packages_core_dist_d06f87d8._.js",
+      "static/chunks/node_modules__pnpm_ac996fc5._.js",
+      "static/chunks/_e5f69559._.js",
+      "static/chunks/apps_docs_components_search_tsx_4e19cdff._.js"
+    ]
+  }
+}

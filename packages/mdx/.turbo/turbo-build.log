@@ -1,0 +1,65 @@
+
+
+> fumadocs-mdx@11.7.5 build /home/tom/www2026/8_server/vercel/fumadocs/packages/mdx
+> tsup
+
+[34mCLI[39m Building entry: src/index.ts, src/loader-mdx.ts, src/config/index.ts, src/config/zod-3.ts, src/next/index.ts, src/vite/index.ts, src/runtime/async.ts, src/runtime/vite.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/tom/www2026/8_server/vercel/fumadocs/packages/mdx/tsup.config.ts
+[34mCLI[39m Target: node18
+[34mESM[39m Build start
+[34mCJS[39m Build start
+[32mESM[39m [1mdist/mdx-options-3NB74EMB.js [22m[32m97.00 B[39m
+[32mESM[39m [1mdist/watcher-4NDMOH4R.js     [22m[32m516.00 B[39m
+[32mESM[39m [1mdist/index.js                [22m[32m143.00 B[39m
+[32mESM[39m [1mdist/loader-mdx.js           [22m[32m2.48 KB[39m
+[32mESM[39m [1mdist/chunk-GBMFGEC7.js       [22m[32m1.24 KB[39m
+[32mESM[39m [1mdist/config/index.js         [22m[32m413.00 B[39m
+[32mESM[39m [1mdist/chunk-GYWPPGFD.js       [22m[32m2.93 KB[39m
+[32mESM[39m [1mdist/chunk-XZR5QXVY.js       [22m[32m2.37 KB[39m
+[32mESM[39m [1mdist/next/index.js           [22m[32m10.65 KB[39m
+[32mESM[39m [1mdist/vite/index.js           [22m[32m6.64 KB[39m
+[32mESM[39m [1mdist/chunk-GX3THK2Q.js       [22m[32m1.53 KB[39m
+[32mESM[39m [1mdist/chunk-UCY7OBZG.js       [22m[32m164.00 B[39m
+[32mESM[39m [1mdist/chunk-NUDEC6C5.js       [22m[32m1.63 KB[39m
+[32mESM[39m [1mdist/runtime/async.js        [22m[32m2.00 KB[39m
+[32mESM[39m [1mdist/chunk-IGXZS2W6.js       [22m[32m3.75 KB[39m
+[32mESM[39m [1mdist/chunk-7JFPDRW7.js       [22m[32m959.00 B[39m
+[32mESM[39m [1mdist/chunk-XVL4ZQFK.js       [22m[32m1.43 KB[39m
+[32mESM[39m [1mdist/chunk-6Y5JDZHD.js       [22m[32m1.86 KB[39m
+[32mESM[39m [1mdist/runtime/vite.js         [22m[32m2.92 KB[39m
+[32mESM[39m [1mdist/chunk-VWJKRQZR.js       [22m[32m451.00 B[39m
+[32mESM[39m [1mdist/config/zod-3.js         [22m[32m917.00 B[39m
+[32mESM[39m ⚡️ Build success in 60ms
+[32mCJS[39m [1mdist/index.cjs         [22m[32m3.33 KB[39m
+[32mCJS[39m [1mdist/loader-mdx.cjs    [22m[32m17.68 KB[39m
+[32mCJS[39m [1mdist/config/zod-3.cjs  [22m[32m11.12 KB[39m
+[32mCJS[39m [1mdist/next/index.cjs    [22m[32m23.92 KB[39m
+[32mCJS[39m [1mdist/vite/index.cjs    [22m[32m20.89 KB[39m
+[32mCJS[39m [1mdist/runtime/async.cjs [22m[32m15.10 KB[39m
+[32mCJS[39m [1mdist/runtime/vite.cjs  [22m[32m4.02 KB[39m
+[32mCJS[39m [1mdist/config/index.cjs  [22m[32m10.45 KB[39m
+[32mCJS[39m ⚡️ Build success in 61ms
+DTS Build start
+DTS ⚡️ Build success in 11191ms
+DTS dist/index.d.ts            863.00 B
+DTS dist/loader-mdx.d.ts       412.00 B
+DTS dist/config/zod-3.d.ts     2.06 KB
+DTS dist/vite/index.d.ts       598.00 B
+DTS dist/runtime/vite.d.ts     4.09 KB
+DTS dist/runtime/async.d.ts    491.00 B
+DTS dist/next/index.d.ts       777.00 B
+DTS dist/config/index.d.ts     623.00 B
+DTS dist/types-DT4UJSPW.d.ts   3.41 KB
+DTS dist/define-DnJzAZrj.d.ts  4.63 KB
+DTS dist/index.d.cts           865.00 B
+DTS dist/loader-mdx.d.cts      412.00 B
+DTS dist/config/zod-3.d.cts    2.07 KB
+DTS dist/vite/index.d.cts      598.00 B
+DTS dist/runtime/vite.d.cts    4.09 KB
+DTS dist/runtime/async.d.cts   493.00 B
+DTS dist/next/index.d.cts      777.00 B
+DTS dist/config/index.d.cts    624.00 B
+DTS dist/types-C43MOv0W.d.cts  3.41 KB
+DTS dist/define-DnJzAZrj.d.cts 4.63 KB

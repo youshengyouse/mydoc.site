@@ -1,0 +1,92 @@
+
+
+> fumadocs-core@15.6.12 build /home/tom/www2026/8_server/vercel/fumadocs/packages/core
+> tsup
+
+[34mCLI[39m Building entry: src/breadcrumb.tsx, src/dynamic-link.tsx, src/hide-if-empty.tsx, src/link.tsx, src/sidebar.tsx, src/toc.tsx, src/content/index.ts, src/framework/index.tsx, src/framework/next.tsx, src/framework/react-router.tsx, src/framework/tanstack.tsx, src/framework/waku.tsx, src/highlight/client.tsx, src/highlight/index.ts, src/i18n/index.server.ts, src/i18n/index.ts, src/i18n/middleware.ts, src/mdx-plugins/index.ts, src/search/algolia.ts, src/search/client.ts, src/search/orama-cloud.ts, src/search/server.ts, src/server/index.ts, src/source/index.ts, src/utils/use-effect-event.ts, src/utils/use-media-query.ts, src/utils/use-on-change.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/tom/www2026/8_server/vercel/fumadocs/packages/core/tsup.config.ts
+[34mCLI[39m Target: es2022
+[34mESM[39m Build start
+[32mESM[39m [1mdist/utils/use-media-query.js  [22m[32m115.00 B[39m
+[32mESM[39m [1mdist/utils/use-on-change.js    [22m[32m111.00 B[39m
+[32mESM[39m [1mdist/fetch-ITPHBPBE.js         [22m[32m640.00 B[39m
+[32mESM[39m [1mdist/utils/use-effect-event.js [22m[32m316.00 B[39m
+[32mESM[39m [1mdist/static-IWYDJ3C5.js        [22m[32m1.58 KB[39m
+[32mESM[39m [1mdist/algolia-KPRGMSJO.js       [22m[32m1.42 KB[39m
+[32mESM[39m [1mdist/orama-cloud-BYTAI6QU.js   [22m[32m2.23 KB[39m
+[32mESM[39m [1mdist/i18n/middleware.js        [22m[32m129.00 B[39m
+[32mESM[39m [1mdist/mixedbread-AG5AAOKO.js    [22m[32m4.70 KB[39m
+[32mESM[39m [1mdist/search/algolia.js         [22m[32m1.87 KB[39m
+[32mESM[39m [1mdist/search/client.js          [22m[32m3.34 KB[39m
+[32mESM[39m [1mdist/chunk-KIJ7AMBP.js         [22m[32m2.11 KB[39m
+[32mESM[39m [1mdist/search/orama-cloud.js     [22m[32m1.60 KB[39m
+[32mESM[39m [1mdist/chunk-KAOEMCTI.js         [22m[32m462.00 B[39m
+[32mESM[39m [1mdist/search/server.js          [22m[32m8.37 KB[39m
+[32mESM[39m [1mdist/chunk-CNWEGOUF.js         [22m[32m1.30 KB[39m
+[32mESM[39m [1mdist/chunk-Y2774T3B.js         [22m[32m1.54 KB[39m
+[32mESM[39m [1mdist/chunk-3JSIVMCJ.js         [22m[32m618.00 B[39m
+[32mESM[39m [1mdist/chunk-7GNSIKII.js         [22m[32m901.00 B[39m
+[32mESM[39m [1mdist/framework/next.js         [22m[32m534.00 B[39m
+[32mESM[39m [1mdist/source/index.js           [22m[32m19.95 KB[39m
+[32mESM[39m [1mdist/server/index.js           [22m[32m5.29 KB[39m
+[32mESM[39m [1mdist/framework/react-router.js [22m[32m1.04 KB[39m
+[32mESM[39m [1mdist/mdx-plugins/index.js      [22m[32m51.20 KB[39m
+[32mESM[39m [1mdist/framework/tanstack.js     [22m[32m1.01 KB[39m
+[32mESM[39m [1mdist/framework/waku.js         [22m[32m1.20 KB[39m
+[32mESM[39m [1mdist/chunk-NJLFLPV4.js         [22m[32m2.89 KB[39m
+[32mESM[39m [1mdist/highlight/index.js        [22m[32m143.00 B[39m
+[32mESM[39m [1mdist/chunk-KLUGJRZC.js         [22m[32m2.23 KB[39m
+[32mESM[39m [1mdist/highlight/client.js       [22m[32m577.00 B[39m
+[32mESM[39m [1mdist/i18n/index.js             [22m[32m109.00 B[39m
+[32mESM[39m [1mdist/i18n/index.server.js      [22m[32m196.00 B[39m
+[32mESM[39m [1mdist/breadcrumb.js             [22m[32m2.10 KB[39m
+[32mESM[39m [1mdist/hide-if-empty.js          [22m[32m2.03 KB[39m
+[32mESM[39m [1mdist/link.js                   [22m[32m150.00 B[39m
+[32mESM[39m [1mdist/toc.js                    [22m[32m3.77 KB[39m
+[32mESM[39m [1mdist/chunk-5SU2O5AS.js         [22m[32m706.00 B[39m
+[32mESM[39m [1mdist/chunk-EP5LHGDZ.js         [22m[32m599.00 B[39m
+[32mESM[39m [1mdist/sidebar.js                [22m[32m1.73 KB[39m
+[32mESM[39m [1mdist/chunk-EMWGTXSW.js         [22m[32m459.00 B[39m
+[32mESM[39m [1mdist/content/index.js          [22m[32m797.00 B[39m
+[32mESM[39m [1mdist/chunk-HUTQC33E.js         [22m[32m96.00 B[39m
+[32mESM[39m [1mdist/dynamic-link.js           [22m[32m892.00 B[39m
+[32mESM[39m [1mdist/chunk-JSBRDJBE.js         [22m[32m1.33 KB[39m
+[32mESM[39m [1mdist/framework/index.js        [22m[32m287.00 B[39m
+[32mESM[39m [1mdist/chunk-BBP7MIO4.js         [22m[32m2.21 KB[39m
+[32mESM[39m ⚡️ Build success in 156ms
+DTS Build start
+DTS ⚡️ Build success in 9737ms
+DTS dist/breadcrumb.d.ts                1.36 KB
+DTS dist/dynamic-link.d.ts              442.00 B
+DTS dist/hide-if-empty.d.ts             747.00 B
+DTS dist/link.d.ts                      513.00 B
+DTS dist/sidebar.d.ts                   1.39 KB
+DTS dist/toc.d.ts                       1.35 KB
+DTS dist/content/index.d.ts             763.00 B
+DTS dist/framework/index.d.ts           1.66 KB
+DTS dist/framework/next.d.ts            224.00 B
+DTS dist/framework/react-router.d.ts    238.00 B
+DTS dist/framework/tanstack.d.ts        286.00 B
+DTS dist/framework/waku.d.ts            224.00 B
+DTS dist/highlight/client.d.ts          564.00 B
+DTS dist/search/algolia.d.ts            1.69 KB
+DTS dist/search/orama-cloud.d.ts        1.67 KB
+DTS dist/i18n/index.d.ts                931.00 B
+DTS dist/utils/use-effect-event.d.ts    189.00 B
+DTS dist/utils/use-media-query.d.ts     110.00 B
+DTS dist/utils/use-on-change.d.ts       323.00 B
+DTS dist/server/index.d.ts              3.36 KB
+DTS dist/search/server.d.ts             4.95 KB
+DTS dist/search/client.d.ts             3.64 KB
+DTS dist/mdx-plugins/index.d.ts         5.41 KB
+DTS dist/highlight/index.d.ts           1.31 KB
+DTS dist/i18n/middleware.d.ts           445.00 B
+DTS dist/source/index.d.ts              10.13 KB
+DTS dist/i18n/index.server.d.ts         146.00 B
+DTS dist/remark-heading-BPCoYwjn.d.ts   790.00 B
+DTS dist/remark-structure-DVje0Sib.d.ts 1.72 KB
+DTS dist/get-toc-Cr2URuiP.d.ts          818.00 B
+DTS dist/shared-ORgOfXFw.d.ts           502.00 B
+DTS dist/definitions-D0ZpOeqd.d.ts      1.38 KB

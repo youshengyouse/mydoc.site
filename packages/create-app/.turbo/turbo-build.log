@@ -1,0 +1,20 @@
+
+
+> create-fumadocs-app@15.6.12 build /home/tom/www2026/8_server/vercel/fumadocs/packages/create-app
+> tsup
+
+Create-Fumadocs-App: versions.json updated
+[34mCLI[39m Building entry: src/create-app.ts, src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/tom/www2026/8_server/vercel/fumadocs/packages/create-app/tsup.config.ts
+[34mCLI[39m Target: node18
+[34mESM[39m Build start
+[32mESM[39m [1mdist/create-app.js     [22m[32m95.00 B[39m
+[32mESM[39m [1mdist/chunk-CAN6QHMO.js [22m[32m8.99 KB[39m
+[32mESM[39m [1mdist/index.js          [22m[32m5.19 KB[39m
+[32mESM[39m ⚡️ Build success in 22ms
+DTS Build start
+DTS ⚡️ Build success in 2512ms
+DTS dist/index.d.ts      20.00 B
+DTS dist/create-app.d.ts 965.00 B

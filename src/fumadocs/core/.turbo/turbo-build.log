@@ -1,0 +1,51 @@
+
+
+> fumadocs-core@15.6.0 build /home/tom/www2026/0_common/js/fumodocs-20250721/packages/core
+> tsup
+
+[34mCLI[39m Building entry: src/breadcrumb.tsx, src/dynamic-link.tsx, src/hide-if-empty.tsx, src/link.tsx, src/sidebar.tsx, src/toc.tsx, src/content/index.ts, src/framework/index.tsx, src/framework/next.tsx, src/framework/react-router.tsx, src/framework/tanstack.tsx, src/highlight/client.tsx, src/highlight/index.ts, src/i18n/index.ts, src/mdx-plugins/index.ts, src/search/algolia.ts, src/search/client.ts, src/search/orama-cloud.ts, src/search/server.ts, src/server/index.ts, src/source/index.ts, src/utils/use-effect-event.ts, src/utils/use-media-query.ts, src/utils/use-on-change.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.0
+[34mCLI[39m Using tsup config: /home/tom/www2026/0_common/js/fumodocs-20250721/packages/core/tsup.config.ts
+[34mCLI[39m Target: es2022
+[34mESM[39m Build start
+[32mESM[39m [1mdist/fetch-YKY7NMVE.js         [22m[32m609.00 B[39m
+[32mESM[39m [1mdist/static-5YPNWD5F.js        [22m[32m1.53 KB[39m
+[32mESM[39m [1mdist/orama-cloud-I4WBDIAI.js   [22m[32m1.89 KB[39m
+[32mESM[39m [1mdist/search/orama-cloud.js     [22m[32m1.57 KB[39m
+[32mESM[39m [1mdist/search/server.js          [22m[32m8.24 KB[39m
+[32mESM[39m [1mdist/chunk-62HKBTBF.js         [22m[32m1.74 KB[39m
+[32mESM[39m [1mdist/algolia-NXNLN7TR.js       [22m[32m1.14 KB[39m
+[32mESM[39m [1mdist/search/client.js          [22m[32m3.13 KB[39m
+[32mESM[39m [1mdist/chunk-KAOEMCTI.js         [22m[32m462.00 B[39m
+[32mESM[39m [1mdist/server/index.js           [22m[32m5.14 KB[39m
+[32mESM[39m [1mdist/utils/use-on-change.js    [22m[32m80.00 B[39m
+[32mESM[39m [1mdist/chunk-7GNSIKII.js         [22m[32m901.00 B[39m
+[32mESM[39m [1mdist/utils/use-effect-event.js [22m[32m283.00 B[39m
+[32mESM[39m [1mdist/framework/next.js         [22m[32m503.00 B[39m
+[32mESM[39m [1mdist/source/index.js           [22m[32m16.94 KB[39m
+[32mESM[39m [1mdist/framework/react-router.js [22m[32m1.01 KB[39m
+[32mESM[39m [1mdist/framework/tanstack.js     [22m[32m1003.00 B[39m
+[32mESM[39m [1mdist/utils/use-media-query.js  [22m[32m84.00 B[39m
+[32mESM[39m [1mdist/highlight/index.js        [22m[32m112.00 B[39m
+[32mESM[39m [1mdist/highlight/client.js       [22m[32m2.08 KB[39m
+[32mESM[39m [1mdist/chunk-3JSIVMCJ.js         [22m[32m618.00 B[39m
+[32mESM[39m [1mdist/chunk-Y2774T3B.js         [22m[32m1.54 KB[39m
+[32mESM[39m [1mdist/i18n/index.js             [22m[32m2.23 KB[39m
+[32mESM[39m [1mdist/search/algolia.js         [22m[32m1.84 KB[39m
+[32mESM[39m [1mdist/dynamic-link.js           [22m[32m862.00 B[39m
+[32mESM[39m [1mdist/chunk-3NX26V7I.js         [22m[32m2.92 KB[39m
+[32mESM[39m [1mdist/breadcrumb.js             [22m[32m2.07 KB[39m
+[32mESM[39m [1mdist/hide-if-empty.js          [22m[32m1.63 KB[39m
+[32mESM[39m [1mdist/chunk-5SU2O5AS.js         [22m[32m706.00 B[39m
+[32mESM[39m [1mdist/link.js                   [22m[32m120.00 B[39m
+[32mESM[39m [1mdist/chunk-EP5LHGDZ.js         [22m[32m599.00 B[39m
+[32mESM[39m [1mdist/sidebar.js                [22m[32m1.70 KB[39m
+[32mESM[39m [1mdist/toc.js                    [22m[32m3.75 KB[39m
+[32mESM[39m [1mdist/mdx-plugins/index.js      [22m[32m50.04 KB[39m
+[32mESM[39m [1mdist/content/index.js          [22m[32m765.00 B[39m
+[32mESM[39m [1mdist/framework/index.js        [22m[32m256.00 B[39m
+[32mESM[39m [1mdist/chunk-BBP7MIO4.js         [22m[32m2.21 KB[39m
+[32mESM[39m [1mdist/chunk-EMWGTXSW.js         [22m[32m459.00 B[39m
+[32mESM[39m ⚡️ Build success in 235ms
+DTS Build start
