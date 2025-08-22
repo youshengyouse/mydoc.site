@@ -17,6 +17,8 @@
 /.next/
 /out/
 
+src/mydoc/.next/
+/.turbo/
 # production
 /build
 

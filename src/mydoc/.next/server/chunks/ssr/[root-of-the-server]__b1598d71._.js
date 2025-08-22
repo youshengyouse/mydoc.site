@@ -6431,9 +6431,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "2024-5-15.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/2024-5-15.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/2024-5-15.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "How Fumadocs works",
             "description": "The framework for building documentation",
@@ -6448,9 +6448,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "2024-5-16.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/2024-5-16.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/2024-5-16.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "500 Stars",
             "description": "The first 500 stars of Fumadocs",
@@ -6465,9 +6465,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "customise-ui.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/customise-ui.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/customise-ui.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Rethink how we customise UI",
             "description": "Deep dive on how Fumadocs UI is designed",
@@ -6482,9 +6482,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "make-a-blog.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/make-a-blog.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/make-a-blog.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Making a Blog with Fumadocs",
             "description": "Fumadocs + Blog",
@@ -6499,9 +6499,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx-v10-summary.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/mdx-v10-summary.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/mdx-v10-summary.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Fumadocs MDX v10 Summary",
             "description": "Migration Guide and Summary",
@@ -6516,9 +6516,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx-v10.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/mdx-v10.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/mdx-v10.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Fumadocs MDX v10",
             "description": "Improvement over Fumadocs MDX, our built-in content source.",
@@ -6533,9 +6533,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "new-conventions.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/new-conventions.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/new-conventions.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Adding new Conventions",
             "description": "Some changes on the docs.",
@@ -6550,9 +6550,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "openapi-v9.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/openapi-v9.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/openapi-v9.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Fumadocs OpenAPI v9",
             "description": "Better UI & DX",
@@ -6567,9 +6567,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "v12-after.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/v12-after.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/v12-after.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Fumadocs 12.0.5",
             "description": "After the release of Fumadocs 12",
@@ -6584,9 +6584,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "v12.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/v12.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/v12.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Fumadocs 12",
             "description": "Introduce Fumadocs v12",
@@ -6601,9 +6601,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "v13.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/v13.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/v13.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Fumadocs v13",
             "description": "Introducing Fumadocs v13",
@@ -6618,9 +6618,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "v14.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/v14.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/v14.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Fumadocs v14",
             "description": "Introducing Fumadocs v14",
@@ -6635,9 +6635,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "v15-2.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/v15-2.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/v15-2.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Fumadocs v15.2",
             "description": "From Next.js only to Next.js first.",
@@ -6652,9 +6652,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "v15.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/v15.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/v15.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Fumadocs v15",
             "description": "Tailwind CSS v4",
@@ -6669,9 +6669,9 @@ const blog = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "why-docs.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/blog/why-docs.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/blog/why-docs.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Why do you need docs?",
             "description": "You've read so many docs, but are they necessary?",
@@ -6688,9 +6688,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "cli/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/cli/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/cli/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "User Guide",
             "description": "The CLI tool that automates setups and installs components.",
@@ -6704,9 +6704,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/custom-source.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/custom-source.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/custom-source.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Custom Source",
             "description": "Build your own content source",
@@ -6720,9 +6720,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Introduction",
             "description": "Getting started with core library",
@@ -6737,9 +6737,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/internationalization.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/internationalization.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/internationalization.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Internationalization",
             "description": "Support multiple languages in your documentation",
@@ -6753,9 +6753,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/page-conventions.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/page-conventions.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/page-conventions.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Routing",
             "description": "A shared convention for organizing your documents",
@@ -6769,9 +6769,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/page-tree.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/page-tree.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/page-tree.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Page Tree",
             "description": "The structure of page tree.",
@@ -6785,9 +6785,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/source-api.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/source-api.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/source-api.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "loader()",
             "description": "Turn a content source into a unified interface",
@@ -6801,9 +6801,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/async.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/async.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/async.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Async Mode",
             "description": "Runtime compilation of content files.",
@@ -6817,9 +6817,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/collections.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/collections.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/collections.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Collections",
             "description": "Collection of content data for your app",
@@ -6833,9 +6833,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/global.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/global.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/global.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Global Options",
             "description": "Customise Fumadocs MDX",
@@ -6849,9 +6849,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/include.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/include.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/include.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Include",
             "description": "Reuse content from other files.",
@@ -6865,9 +6865,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Getting Started",
             "description": "Introducing Fumadocs MDX, the official content source of Fumadocs.",
@@ -6882,9 +6882,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/last-modified.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/last-modified.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/last-modified.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Last Modified Time",
             "description": "Output the last modified time of a document",
@@ -6898,9 +6898,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/mdx.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/mdx.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/mdx.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Default MDX Config",
             "description": "Customise the default configurations for MDX processor.",
@@ -6914,9 +6914,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/page.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/page.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/page.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Use as Page",
             "description": "Use MDX file as a page",
@@ -6930,9 +6930,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/performance.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/performance.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/performance.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Performance",
             "description": "The performance of Fumadocs MDX",
@@ -6947,9 +6947,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "openapi/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/openapi/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/openapi/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Scalar Example",
             "description": "View the Scalar Galaxy example OpenAPI schema.",
@@ -6963,9 +6963,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/comparisons.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/comparisons.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/comparisons.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Comparisons",
             "description": "How is Fumadocs different from other existing frameworks?",
@@ -6980,9 +6980,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/customisation.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/customisation.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/customisation.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Overview",
             "description": "An overview of Fumadocs UI",
@@ -6996,9 +6996,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Quick Start",
             "description": "Getting Started with Fumadocs",
@@ -7013,9 +7013,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/page-conventions.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/page-conventions.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/page-conventions.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Routing",
             "description": "A shared convention for organizing your documents",
@@ -7029,9 +7029,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/static-export.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/static-export.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/static-export.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Static Build",
             "description": "Output static website with Fumadocs.",
@@ -7045,9 +7045,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/theme.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/theme.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/theme.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Themes",
             "description": "Add Theme to Fumadocs UI",
@@ -7061,9 +7061,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/versioning.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/versioning.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/versioning.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Versioning",
             "description": "Implementing multi-version in your docs.",
@@ -7077,9 +7077,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/what-is-fumadocs.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/what-is-fumadocs.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/what-is-fumadocs.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "What is Fumadocs",
             "description": "Introducing Fumadocs, a docs framework that you can break.",
@@ -7094,9 +7094,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/components/breadcrumb.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/components/breadcrumb.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/components/breadcrumb.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Breadcrumb",
             "description": "The navigation component at the top of the screen",
@@ -7110,9 +7110,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/components/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/components/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/components/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Components",
             "description": "Blocks for your docs",
@@ -7126,9 +7126,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/components/link.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/components/link.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/components/link.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Link",
             "description": "A Link component that handles external links",
@@ -7142,9 +7142,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/components/sidebar.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/components/sidebar.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/components/sidebar.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Sidebar",
             "description": "The navigation bar at the side of the viewport",
@@ -7158,9 +7158,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/components/toc.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/components/toc.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/components/toc.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "TOC",
             "description": "Table of Contents",
@@ -7174,9 +7174,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/content-collections/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/content-collections/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/content-collections/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Content Collections",
             "description": "Use Content Collections for Fumadocs",
@@ -7190,9 +7190,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/mdx/headings.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/mdx/headings.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/mdx/headings.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Headings",
             "description": "Process headings from your document",
@@ -7206,9 +7206,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/mdx/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/mdx/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/mdx/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "MDX Plugins",
             "description": "Useful remark & rehype plugins for your docs.",
@@ -7222,9 +7222,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/mdx/install.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/mdx/install.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/mdx/install.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Package Install",
             "description": "Generate code blocks for installing packages",
@@ -7238,9 +7238,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/mdx/rehype-code.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/mdx/rehype-code.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/mdx/rehype-code.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Rehype Code",
             "description": "Code syntax highlighter",
@@ -7254,9 +7254,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/mdx/remark-admonition.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/mdx/remark-admonition.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/mdx/remark-admonition.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Remark Admonition",
             "description": "Use Admonition in Fumadocs",
@@ -7270,9 +7270,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/mdx/remark-image.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/mdx/remark-image.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/mdx/remark-image.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Remark Image",
             "description": "Adding size attributes to images.",
@@ -7286,9 +7286,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/mdx/remark-ts2js.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/mdx/remark-ts2js.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/mdx/remark-ts2js.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Remark TS to JS",
             "description": "A remark plugin to transform TypeScript codeblocks into two tabs of codeblock with its JavaScript variant.",
@@ -7302,9 +7302,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/mdx/structure.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/mdx/structure.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/mdx/structure.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Remark Structure",
             "description": "Extract information from your documents, useful for implementing document search",
@@ -7318,9 +7318,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/search/algolia.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/search/algolia.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/search/algolia.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Algolia Search",
             "description": "Integrate Algolia Search with Fumadocs",
@@ -7334,9 +7334,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/search/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/search/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/search/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Search",
             "description": "Configure Search in Fumadocs",
@@ -7351,9 +7351,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/search/mixedbread.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/search/mixedbread.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/search/mixedbread.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Mixedbread",
             "description": "Integrate Mixedbread Search with Fumadocs",
@@ -7367,9 +7367,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/search/orama-cloud.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/search/orama-cloud.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/search/orama-cloud.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Orama Cloud",
             "description": "Integrate with Orama Cloud",
@@ -7383,9 +7383,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/search/orama.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/search/orama.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/search/orama.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Built-in Search",
             "description": "Built-in document search of Fumadocs",
@@ -7399,9 +7399,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/search/trieve.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/search/trieve.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/search/trieve.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Trieve Search",
             "description": "Integrate Trieve Search with Fumadocs",
@@ -7415,9 +7415,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/utils/find-neighbour.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/utils/find-neighbour.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/utils/find-neighbour.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Find Neighbours",
             "description": "Find the neighbours of a page from the page tree",
@@ -7431,9 +7431,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/utils/get-toc.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/utils/get-toc.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/utils/get-toc.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Get TOC",
             "description": "Parse Table of contents from markdown/mdx content",
@@ -7447,9 +7447,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/utils/git-last-edit.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/utils/git-last-edit.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/utils/git-last-edit.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Last Modified Time",
             "description": "Get the last edit time of a file in Github repository",
@@ -7463,9 +7463,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/utils/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/utils/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/utils/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Utilities",
             "description": "Utilities to provide extra functionality to your docs",
@@ -7479,9 +7479,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/(integrations)/next.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/(integrations)/next.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/(integrations)/next.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Next.js",
             "description": "Use Fumadocs MDX with Next.js",
@@ -7495,9 +7495,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/feedback.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/feedback.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/feedback.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Feedback",
             "description": "Receive feedback from your users",
@@ -7511,9 +7511,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/llms.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/llms.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/llms.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "AI",
             "description": "Integrate AI functionality to Fumadocs.",
@@ -7527,9 +7527,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/open-graph.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/open-graph.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/open-graph.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Metadata",
             "description": "Usage with Next.js Metadata API.",
@@ -7543,9 +7543,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/python.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/python.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/python.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Python",
             "description": "Generate docs from Python",
@@ -7559,9 +7559,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/rss.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/rss.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/rss.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "RSS",
             "description": "Generate a RSS feed for your docs/blog.",
@@ -7575,9 +7575,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/typescript.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/typescript.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/typescript.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Typescript",
             "description": "Generate docs from Typescript definitions",
@@ -7591,9 +7591,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/accordion.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/accordion.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/accordion.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Accordion",
             "description": "Add Accordions to your documentation",
@@ -7608,9 +7608,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/auto-type-table.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/auto-type-table.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/auto-type-table.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Auto Type Table",
             "description": "Auto-generated type table",
@@ -7624,9 +7624,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/banner.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/banner.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/banner.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Banner",
             "description": "Add a banner to your site",
@@ -7641,9 +7641,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/dynamic-codeblock.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/dynamic-codeblock.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/dynamic-codeblock.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Code Block (Dynamic)",
             "description": "A codeblock that also highlights code",
@@ -7658,9 +7658,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/files.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/files.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/files.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Files",
             "description": "Display file structure in your documentation",
@@ -7675,9 +7675,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/github-info.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/github-info.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/github-info.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "GitHub Info",
             "description": "Display your GitHub repository information",
@@ -7692,9 +7692,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/image-zoom.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/image-zoom.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/image-zoom.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Zoomable Image",
             "description": "Allow zoom-in images in your documentation",
@@ -7709,9 +7709,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Components",
             "description": "Additional components to improve your docs",
@@ -7725,9 +7725,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/inline-toc.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/inline-toc.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/inline-toc.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Inline TOC",
             "description": "Add Inline TOC into your documentation",
@@ -7742,9 +7742,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/steps.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/steps.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/steps.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Steps",
             "description": "Adding steps to your docs",
@@ -7759,9 +7759,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/tabs.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/tabs.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/tabs.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Tabs",
             "description": "A Tabs component built with Radix UI, with additional features such as persistent and shared value.",
@@ -7776,9 +7776,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/components/type-table.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/components/type-table.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/components/type-table.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Type Table",
             "description": "A table for documenting types",
@@ -7793,9 +7793,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/internationalization/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/internationalization/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/internationalization/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Internationalization",
             "description": "Support multiple languages in your documentation",
@@ -7809,9 +7809,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/internationalization/next.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/internationalization/next.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/internationalization/next.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Next.js",
             "description": "Support i18n routing on your Next.js + Fumadocs app",
@@ -7825,9 +7825,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/internationalization/react-router.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/internationalization/react-router.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/internationalization/react-router.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "React Router",
             "description": "Support i18n routing on your React Router + Fumadocs app.",
@@ -7841,9 +7841,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/internationalization/tanstack-start.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/internationalization/tanstack-start.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/internationalization/tanstack-start.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Tanstack Start",
             "description": "Support i18n routing on your Tanstack Start + Fumadocs app.",
@@ -7856,90 +7856,10 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     },
     {
         "info": {
-            "path": "ui/layouts/docs.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/layouts/docs.mdx"
-        },
-        "lastModified": null,
-        "data": {
-            "title": "Docs Layout",
-            "description": "The layout of documentation",
-            "index": false
-        },
-        "content": {
-            "body": "\nThe layout of documentation pages, it includes a sidebar and mobile-only navbar.\n\n> It is a server component, you should not reference it in a client component.\n\n## Usage\n\nPass your page tree to the component.\n\n```tsx title=\"layout.tsx\"\nimport { DocsLayout } from 'fumadocs-ui/layouts/docs';\nimport { baseOptions } from '@/lib/layout.shared';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  return (\n    <DocsLayout {...baseOptions()} tree={tree}>\n      {children}\n    </DocsLayout>\n  );\n}\n```\n\n<AutoTypeTable\n  path=\"./content/docs/ui/props.ts\"\n  type=\"Omit<DocsLayoutProps, 'children' | 'disableThemeSwitch'>\"\n/>\n\n## Sidebar\n\n```tsx title=\"layout.tsx\"\nimport { DocsLayout } from 'fumadocs-ui/layouts/docs';\n\n<DocsLayout\n  sidebar={{\n    enabled: true,\n    // replace the default sidebar\n    // component:\n  }}\n/>;\n```\n\n> See [Sidebar Links](/docs/ui/navigation/sidebar) for customising sidebar items.\n\n<AutoTypeTable path=\"./content/docs/ui/props.ts\" name=\"SidebarProps\" />\n\n## Nav\n\nA mobile-only navbar, we recommend to customise it from `baseOptions`.\n\n<div className='max-w-[460px] mx-auto'>\n\n![Docs Nav](/docs/docs-nav.png)\n\n</div>\n\n```tsx\nimport type { BaseLayoutProps } from 'fumadocs-ui/layouts/shared';\n\nexport const baseOptions: BaseLayoutProps = {\n  githubUrl: 'https://github.com/fuma-nama/fumadocs',\n  nav: {\n    title: 'My App',\n  },\n};\n```\n\n<AutoTypeTable\n  path=\"./content/docs/ui/props.ts\"\n  type=\"Omit<NavbarProps, 'children'>\"\n/>\n\n### Transparent Mode\n\nTo make the navbar background transparent, you can configure transparent mode.\n\n```tsx\nimport type { BaseLayoutProps } from 'fumadocs-ui/layouts/shared';\n\nexport const baseOptions: BaseLayoutProps = {\n  nav: {\n    transparentMode: 'top',\n  },\n};\n```\n\n| Mode     | Description                              |\n| -------- | ---------------------------------------- |\n| `always` | Always use a transparent background      |\n| `top`    | When at the top of page                  |\n| `none`   | Disable transparent background (default) |\n\n### Replace Navbar\n\nTo replace the navbar in Docs Layout, set `nav.component` to your own component.\n\n```tsx title=\"layout.tsx\"\nimport { baseOptions } from '@/lib/layout.shared';\nimport { DocsLayout } from 'fumadocs-ui/layouts/notebook';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  return (\n    <DocsLayout\n      {...baseOptions()}\n      nav={{\n        component: <CustomNavbar />,\n      }}\n    >\n      {children}\n    </DocsLayout>\n  );\n}\n```\n\nFumadocs uses **CSS Variables** to share the size of layout components, and fit each layout component into appropriate position.\n\nYou need to override `--fd-nav-height` to the exact height of your custom navbar, this can be done with a CSS stylesheet (e.g. in `global.css`):\n\n```css\n:root {\n  --fd-nav-height: 80px !important;\n}\n```\n\n## Advanced\n\n### Disable Prefetching\n\nBy default, it uses the `<Link />` component of your React framework with prefetch enabled.\n\nOn Vercel, prefetch requests may cause a higher usage of serverless functions and Data Cache.\nIt can also hit the limits of some other hosting platforms.\n\nYou can disable prefetching to reduce the amount of prefetch requests.\n\n```tsx\nimport { DocsLayout } from 'fumadocs-ui/layouts/docs';\n\n<DocsLayout sidebar={{ prefetch: false }} />;\n```\n",
-            "matter": "---\ntitle: Docs Layout\ndescription: The layout of documentation\n---\n"
-        }
-    },
-    {
-        "info": {
-            "path": "ui/layouts/home-layout.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/layouts/home-layout.mdx"
-        },
-        "lastModified": null,
-        "data": {
-            "title": "Home Layout",
-            "description": "Shared layout for other pages",
-            "index": false
-        },
-        "content": {
-            "body": "\n## Usage\n\nAdd a navbar and search dialog across other pages.\n\n```tsx title=\"/app/(home)/layout.tsx\"\nimport { HomeLayout } from 'fumadocs-ui/layouts/home';\nimport { baseOptions } from '@/lib/layout.shared';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  return <HomeLayout {...baseOptions()}>{children}</HomeLayout>;\n}\n```\n\nWe recommend to customise it from [`baseOptions`](/docs/ui/navigation/links).\n",
-            "matter": "---\ntitle: Home Layout\ndescription: Shared layout for other pages\n---\n"
-        }
-    },
-    {
-        "info": {
-            "path": "ui/layouts/notebook.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/layouts/notebook.mdx"
-        },
-        "lastModified": null,
-        "data": {
-            "title": "Notebook",
-            "description": "A more compact version of Docs Layout",
-            "index": false
-        },
-        "content": {
-            "body": "\n![Notebook](/docs/notebook.png)\n\n## Usage\n\nEnable the notebook layout with `fumadocs-ui/layouts/notebook`, it's a more compact layout than the default one.\n\n```tsx title=\"layout.tsx\"\nimport { DocsLayout } from 'fumadocs-ui/layouts/notebook'; // [!code highlight]\nimport { baseOptions } from '@/lib/layout.shared';\nimport { source } from '@/lib/source';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  return (\n    <DocsLayout {...baseOptions()} tree={source.pageTree}>\n      {children}\n    </DocsLayout>\n  );\n}\n```\n\n## Configurations\n\nThe options are inherited from [Docs Layout](/docs/ui/layouts/docs), with minor differences:\n\n- sidebar/navbar cannot be replaced, Notebook layout is more opinionated than the default one.\n- additional options (see below).\n\n### Tab Mode\n\nConfigure the style of sidebar tabs.\n\n![Notebook](/docs/notebook-tab-mode.png)\n\n```tsx title=\"layout.tsx\"\nimport { DocsLayout } from 'fumadocs-ui/layouts/notebook';\nimport { baseOptions } from '@/lib/layout.shared';\nimport { source } from '@/lib/source';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  return (\n    <DocsLayout\n      {...baseOptions()}\n      tabMode=\"navbar\" // [!code ++]\n      tree={source.pageTree}\n    >\n      {children}\n    </DocsLayout>\n  );\n}\n```\n\n### Nav Mode\n\nConfigure the style of navbar.\n\n![Notebook](/docs/notebook-nav-mode.png)\n\n```tsx title=\"layout.tsx\"\nimport { DocsLayout } from 'fumadocs-ui/layouts/notebook';\nimport { baseOptions } from '@/lib/layout.shared';\nimport { source } from '@/lib/source';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  const { nav, ...base } = baseOptions();\n\n  return (\n    <DocsLayout\n      {...base}\n      nav={{ ...nav, mode: 'top' }} // [!code ++]\n      tree={source.pageTree}\n    >\n      {children}\n    </DocsLayout>\n  );\n}\n```\n",
-            "matter": "---\ntitle: Notebook\ndescription: A more compact version of Docs Layout\n---\n"
-        }
-    },
-    {
-        "info": {
-            "path": "ui/layouts/page.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/layouts/page.mdx"
-        },
-        "lastModified": null,
-        "data": {
-            "title": "Docs Page",
-            "description": "A page in your documentation",
-            "index": false
-        },
-        "content": {
-            "body": "\nPage is the base element of a documentation, it includes Table of contents,\nFooter, and Breadcrumb.\n\n## Usage\n\n```tsx title=\"page.tsx\"\nimport {\n  DocsPage,\n  DocsDescription,\n  DocsTitle,\n  DocsBody,\n} from 'fumadocs-ui/page';\n\n<DocsPage>\n  <DocsTitle>title</DocsTitle>\n  <DocsDescription>description</DocsDescription>\n  <DocsBody>\n    <h2>This heading looks good!</h2>\n    It applies the Typography styles, wrap your content here.\n  </DocsBody>\n</DocsPage>;\n```\n\n<Callout type='info' title='Good to know'>\n\nInstead of rendering the title with `DocsTitle` in `page.tsx`, you can put the title into MDX file.\nThis will render the title in the MDX body.\n\n</Callout>\n\n### Edit on GitHub\n\nYou can also add your own component.\n\n```tsx\nimport { DocsBody } from 'fumadocs-ui/page';\n\n<DocsBody>\n  <a\n    href={`https://github.com/fuma-nama/fumadocs/blob/main/content/docs/${page.path}`}\n    rel=\"noreferrer noopener\"\n    target=\"_blank\"\n    className=\"w-fit border rounded-xl p-2 font-medium text-sm text-fd-secondary-foreground bg-fd-secondary transition-colors hover:text-fd-accent-foreground hover:bg-fd-accent\"\n  >\n    Edit on GitHub\n  </a>\n</DocsBody>;\n```\n\n## Configurations\n\n### Full Mode\n\nTo extend the page to fill up all available space, pass `full` to the page component.\nThis will force TOC to be shown as a popover.\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\n\n<DocsPage full>...</DocsPage>;\n```\n\n### Table of Contents\n\nAn overview of all the headings in your article, it requires an array of headings.\n\nFor Markdown and MDX documents, You can obtain it using the\n[TOC Utility](/docs/headless/utils/get-toc). Content sources like Fumadocs MDX offer this out-of-the-box.\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\n\n<DocsPage toc={headings}>...</DocsPage>;\n```\n\nYou can customise or disable it with the `tableOfContent` option, or with `tableOfContentPopover` on smaller devices.\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\n\n<DocsPage tableOfContent={options} tableOfContentPopover={options}>\n  ...\n</DocsPage>;\n```\n\n<AutoTypeTable path=\"./content/docs/ui/props.ts\" name=\"TOCProps\" />\n\n#### Style\n\nYou can choose another style for TOC, like `clerk` inspired by https://clerk.com:\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\n\n<DocsPage\n  tableOfContent={{\n    style: 'clerk',\n  }}\n>\n  ...\n</DocsPage>;\n```\n\n### Last Updated Time\n\nDisplay last updated time of the page.\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\n\n<DocsPage lastUpdate={new Date(lastModifiedTime)} />;\n```\n\nSince you might use different version controls (e.g. Github) or CMS like Sanity, Fumadocs UI doesn't display the last updated time by\ndefault.\n\n<Tabs items={['Fumadocs MDX', 'GitHub API']}>\n\n    <Tab>\n\nYou can enable [`lastModifiedTime`](/docs/mdx/last-modified).\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\nimport { source } from '@/lib/source';\nconst page = source.getPage(['...']);\n\n<DocsPage lastUpdate={new Date(page.data.lastModified)} />;\n```\n\n    </Tab>\n\n    <Tab>\n\nFor Github hosted documents, you can use\nthe [`getGithubLastEdit`](/docs/headless/utils/git-last-edit) utility.\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\nimport { getGithubLastEdit } from 'fumadocs-core/server';\n\nconst time = await getGithubLastEdit({\n  owner: 'fuma-nama',\n  repo: 'fumadocs',\n  path: `content/docs/${page.path}`,\n});\n\n<DocsPage lastUpdate={new Date(time)} />;\n```\n\n    </Tab>\n\n</Tabs>\n\n### Footer\n\nFooter is a navigation element that has two buttons to jump to the next and previous pages. When not specified, it shows the neighbour pages found from page tree.\n\nCustomise the footer with the `footer` option.\n\n```tsx\nimport { DocsPage, DocsBody } from 'fumadocs-ui/page';\n\n<DocsPage footer={options}>\n  <DocsBody>...</DocsBody>\n</DocsPage>;\n```\n\n<AutoTypeTable path=\"./content/docs/ui/props.ts\" name=\"FooterProps\" />\n\n### Breadcrumb\n\nA navigation element, shown only when user is navigating in folders.\n\n<AutoTypeTable path=\"./content/docs/ui/props.ts\" name=\"BreadcrumbProps\" />\n",
-            "matter": "---\ntitle: Docs Page\ndescription: A page in your documentation\n---\n"
-        }
-    },
-    {
-        "info": {
-            "path": "ui/layouts/root-provider.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/layouts/root-provider.mdx"
-        },
-        "lastModified": null,
-        "data": {
-            "title": "Root Provider",
-            "description": "The context provider of Fumadocs UI.",
-            "index": false
-        },
-        "content": {
-            "body": "\nThe context provider of all the components, including `next-themes` and context\nfor search dialog. It should be located at the root layout.\n\n## Usage\n\n```jsx\nimport { RootProvider } from 'fumadocs-ui/provider';\n\nexport default function Layout({ children }) {\n  return (\n    <html lang=\"en\">\n      <body>\n        <RootProvider>{children}</RootProvider>\n      </body>\n    </html>\n  );\n}\n```\n\n### Search Dialog\n\nCustomize or disable the search dialog with `search` option.\n\n```jsx\n<RootProvider\n  search={{\n    enabled: false,\n  }}\n>\n  {children}\n</RootProvider>\n```\n\nLearn more from [Search](/docs/ui/search).\n\n### Theme Provider\n\nFumadocs supports light/dark modes with [`next-themes`](https://github.com/pacocoursey/next-themes).\nCustomise or disable it with `theme` option.\n\n```jsx\n<RootProvider\n  theme={{\n    enabled: false,\n  }}\n>\n  {children}\n</RootProvider>\n```\n",
-            "matter": "---\ntitle: Root Provider\ndescription: The context provider of Fumadocs UI.\n---\n"
-        }
-    },
-    {
-        "info": {
             "path": "ui/manual-installation/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/manual-installation/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/manual-installation/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Manual Installation",
             "description": "Add Fumadocs to existing projects.",
@@ -7953,9 +7873,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/manual-installation/next.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/manual-installation/next.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/manual-installation/next.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Next.js",
             "description": "Setup Fumadocs on Next.js.",
@@ -7969,9 +7889,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/manual-installation/react-router.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/manual-installation/react-router.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/manual-installation/react-router.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "React Router",
             "description": "Setup Fumadocs on React Router.",
@@ -7985,9 +7905,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/manual-installation/tanstack-start.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/manual-installation/tanstack-start.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/manual-installation/tanstack-start.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Tanstack Start",
             "description": "Setup Fumadocs on Tanstack Start.",
@@ -8000,74 +7920,10 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     },
     {
         "info": {
-            "path": "ui/markdown/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/markdown/index.mdx"
-        },
-        "lastModified": null,
-        "data": {
-            "title": "Markdown",
-            "description": "How to write documents",
-            "index": false
-        },
-        "content": {
-            "body": "\n## Introduction\n\nFumadocs provides many useful extensions to MDX, a markup language. Here is a brief introduction to the default MDX syntax of Fumadocs.\n\n> MDX is not the only supported format of Fumadocs. In fact, you can use any renderers such as `next-mdx-remote` or CMS.\n\n## MDX\n\nWe recommend MDX, a superset of Markdown with JSX syntax.\nIt allows you to import components, and use them in the document, or even writing JavaScript.\n\nSee:\n\n- [MDX Syntax](https://mdxjs.com/docs/what-is-mdx/#mdx-syntax).\n- GFM (GitHub Flavored Markdown) is also supported, see [GFM Specification](https://github.github.com/gfm).\n\n```mdx\n---\ntitle: This is a document\n---\n\nimport { Component } from './component';\n\n<Component name=\"Hello\" />\n\n# Heading\n\n## Heading\n\n### Heading\n\n#### Heading\n\nHello World, **Bold**, _Italic_, ~~Hidden~~\n\n1. First\n2. Second\n3. Third\n\n- Item 1\n- Item 2\n\n> Quote here\n\n![alt](/image.png)\n\n| Table | Description |\n| ----- | ----------- |\n| Hello | World       |\n```\n\n### Auto Links\n\nInternal links use the `<Link />` component of your React framework (e.g. `next/link`) to allow prefetching and avoid hard-reload.\n\nExternal links will get the default `rel=\"noreferrer noopener\" target=\"_blank\"` attributes for security.\n\n```mdx\n[My Link](https://github.github.com/gfm)\n\nThis also works: https://github.github.com/gfm.\n```\n\n### Cards\n\nUseful for adding links.\n\n```mdx\nimport { HomeIcon } from 'lucide-react';\n\n<Cards>\n  <Card\n    href=\"https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating\"\n    title=\"Fetching, Caching, and Revalidating\"\n  >\n    Learn more about caching in Next.js\n  </Card>\n  <Card title=\"href is optional\">Learn more about `fetch` in Next.js.</Card>\n  <Card icon={<HomeIcon />} href=\"/\" title=\"Home\">\n    You can include icons too.\n  </Card>\n</Cards>\n```\n\n<Cards>\n  <Card\n    href=\"https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating\"\n    title=\"Fetching, Caching, and Revalidating\"\n  >\n    Learn more about caching in Next.js\n  </Card>\n  <Card title=\"href is optional\">Learn more about `fetch` in Next.js.</Card>\n  <Card icon={<HomeIcon />} href=\"/\" title=\"Home\">\n    You can include icons too.\n  </Card>\n</Cards>\n\n#### \"Further Reading\" Section\n\nYou can do something like:\n\n```tsx title=\"page.tsx\"\nimport { getPageTreePeers } from 'fumadocs-core/server';\nimport { source } from '@/lib/source';\n\n<Cards>\n  {getPageTreePeers(source.pageTree, '/docs/my-page').map((peer) => (\n    <Card key={peer.url} title={peer.name} href={peer.url}>\n      {peer.description}\n    </Card>\n  ))}\n</Cards>;\n```\n\nThis will show the other pages in the same folder as cards.\n\n<DocsCategory url=\"/docs/ui/navigation\" />\n\n### Callouts\n\nUseful for adding tips/warnings, it is included by default. You can specify the type of callout:\n\n- `info` (default)\n- `warn`/`warning`\n- `error`\n- `success`\n\n```mdx\n<Callout>Hello World</Callout>\n\n<Callout title=\"Title\">Hello World</Callout>\n\n<Callout title=\"Title\" type=\"error\">\n  Hello World\n</Callout>\n```\n\n<Callout>Hello World</Callout>\n\n<Callout title=\"Title\" type=\"warn\">\n  Hello World\n</Callout>\n\n<Callout title=\"Title\" type=\"error\">\n  Hello World\n</Callout>\n\n### Headings\n\nAn anchor is automatically applied to each heading, it sanitizes invalid characters like spaces. (e.g. `Hello World` to `hello-world`)\n\n```md\n# Hello `World`\n```\n\n#### TOC Settings\n\nThe table of contents (TOC) will be generated based on headings, you can also customise the effects of headings:\n\n```md\n# Heading [!toc]\n\nThis heading will be hidden from TOC.\n\n# Another Heading [toc]\n\nThis heading will **only** be visible in TOC, you can use it to add additional TOC items.\nLike headings rendered in a React component:\n\n<MyComp />\n```\n\n#### Custom Anchor\n\nYou can add `[#slug]` to customise heading anchors.\n\n```md\n# heading [#my-heading-id]\n```\n\nYou can also chain it with TOC settings like:\n\n```md\n# heading [toc] [#my-heading-id]\n```\n\nTo link people to a specific heading, add the heading id to hash fragment: `/page#my-heading-id`.\n\n### Codeblock\n\nSyntax Highlighting is supported by default using [Rehype Code](/docs/headless/mdx/rehype-code).\n\n````mdx\n```js\nconsole.log('Hello World');\n```\n\n```js title=\"My Title\"\nconsole.log('Hello World');\n```\n````\n\n#### Line Numbers\n\nShow line numbers, it also works with Twoslash and other transformers.\n\n````mdx tab=\"Input\"\n```ts twoslash lineNumbers\nconst a = 'Hello World';\n//    ^?\nconsole.log(a); // [!code highlight]\n```\n````\n\n```ts twoslash lineNumbers tab=\"Output\"\nconst a = 'Hello World';\n//    ^?\nconsole.log(a); // [!code highlight]\n```\n\nYou can set the initial value of line numbers.\n\n````mdx tab=\"Input\"\n```js lineNumbers=4\nfunction main() {\n  console.log('starts from 4');\n\n  return 0;\n}\n```\n````\n\n```js lineNumbers=4 tab=\"Output\"\nfunction main() {\n  console.log('starts from 4');\n\n  return 0;\n}\n```\n\n#### Shiki Transformers\n\nWe support some of the [Shiki Transformers](https://shiki.style/packages/transformers), allowing you to highlight/style specific lines.\n\n````md tab=\"Input\"\n```tsx\n// highlight a line\n<div>Hello World</div> // [\\!code highlight]\n\n// highlight a word\n// [\\!code word:Fumadocs]\n<div>Fumadocs</div>\n\n// diff styles\nconsole.log('hewwo'); // [\\!code --]\nconsole.log('hello'); // [\\!code ++]\n\n// focus\nreturn new ResizeObserver(() => {}) // [\\!code focus]\n```\n````\n\n```tsx tab=\"Output\"\n// highlight a line\n<div>Hello World</div> // [!code highlight]\n\n// highlight a word\n// [!code word:Fumadocs]\n<div>Fumadocs</div>\n\n// diff styles:\nconsole.log('hewwo'); // [!code --]\nconsole.log('hello'); // [!code ++]\n\n// focus\nreturn new ResizeObserver(() => {}) // [!code focus]\n```\n\n#### Tab Groups\n\n````mdx\n```ts tab=\"Tab 1\"\nconsole.log('A');\n```\n\n```ts tab=\"Tab 2\"\nconsole.log('B');\n```\n````\n\n```ts tab=\"Tab 1\"\nconsole.log('A');\n```\n\n```ts tab=\"Tab 2\"\nconsole.log('B');\n```\n\nWhile disabled by default, you use MDX in tab values by configuring the remark plugin:\n\n```ts tab=\"Fumadocs MDX\" title=\"source.config.ts\"\nimport { defineConfig } from 'fumadocs-mdx/config';\n\nexport default defineConfig({\n  mdxOptions: {\n    remarkCodeTabOptions: {\n      parseMdx: true, // [!code ++]\n    },\n  },\n});\n```\n\n```ts tab=\"MDX Compiler\"\nimport { compile } from '@mdx-js/mdx';\nimport { remarkCodeTab } from 'fumadocs-core/mdx-plugins';\n\nawait compile('...', {\n  remarkPlugins: [\n    [\n      remarkCodeTab,\n      {\n        parseMdx: true, // [!code ++]\n      },\n    ],\n  ],\n});\n```\n\n````mdx\n```ts tab=\"<Building /> Tab 1\"\nconsole.log('A');\n```\n\n```ts tab=\"<Rocket /> Tab 2\"\nconsole.log('B');\n```\n````\n\n```ts tab=\"<Building /> Tab 1\"\nconsole.log('A');\n```\n\n```ts tab=\"<Rocket /> Tab 2\"\nconsole.log('B');\n```\n\n### Include\n\n> This is only available on **Fumadocs MDX**.\n\nReference another file (can also be a Markdown/MDX document).\nSpecify the target file path in `<include>` tag (relative to the MDX file itself).\n\n```mdx title=\"page.mdx\"\n<include>./another.mdx</include>\n```\n\nSee [other usages of include](/docs/mdx/include).\n\n### NPM Commands\n\nUseful for generating commands for installing packages with different package managers.\n\n````md tab=\"Input\"\n```npm\nnpm i next -D\n```\n````\n\n```npm tab=\"Output\"\nnpm i next -D\n```\n\nWhen using Fumadocs MDX, you can customise it like:\n\n```tsx title=\"source.config.ts\"\nimport { defineConfig } from 'fumadocs-mdx/config';\n\nexport default defineConfig({\n  mdxOptions: {\n    remarkNpmOptions: {\n      // ...\n    },\n  },\n});\n```\n\n### Other Components\n\nYou can configure & use the [built-in components](/docs/ui/components) in your MDX document, such as Tabs, Accordions and Zoomable Image.\n\n## Additional Features\n\nYou may be interested:\n\n<DocsCategory />\n",
-            "matter": "---\ntitle: Markdown\ndescription: How to write documents\n---\n"
-        }
-    },
-    {
-        "info": {
-            "path": "ui/markdown/math.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/markdown/math.mdx"
-        },
-        "lastModified": null,
-        "data": {
-            "title": "Math",
-            "description": "Writing math equations in Markdown/MDX.",
-            "index": false
-        },
-        "content": {
-            "body": "\n## Getting Started\n\n```package-install\nremark-math rehype-katex katex\n```\n\n### Add Plugins\n\nAdd the required remark/rehype plugins, the code might be vary depending on your content source.\n\n```ts title=\"source.config.ts\" tab=\"Fumadocs MDX\"\nimport rehypeKatex from 'rehype-katex';\nimport remarkMath from 'remark-math';\nimport { defineConfig } from 'fumadocs-mdx/config';\n\nexport default defineConfig({\n  mdxOptions: {\n    remarkPlugins: [remarkMath],\n    // Place it at first, it should be executed before the syntax highlighter\n    rehypePlugins: (v) => [rehypeKatex, ...v],\n  },\n});\n```\n\n### Add Stylesheet\n\nAdd the following to root layout to make it looks great:\n\n```tsx title=\"layout.tsx\"\nimport 'katex/dist/katex.css';\n```\n\n### Done\n\nType some TeX expression in your documents, like the Pythagoras theorem:\n\n````mdx\nInline: $$c = \\pm\\sqrt{a^2 + b^2}$$\n\n```math\nc = \\pm\\sqrt{a^2 + b^2}\n```\n````\n\nInline: $$c = \\pm\\sqrt{a^2 + b^2}$$\n\n```math\nc = \\pm\\sqrt{a^2 + b^2}\n```\n\nTaylor Expansion (expressing holomorphic function $$f(x)$$ in power series):\n\n```math\n\\displaystyle {\\begin{aligned}T_{f}(z)&=\\sum _{k=0}^{\\infty }{\\frac {(z-c)^{k}}{2\\pi i}}\\int _{\\gamma }{\\frac {f(w)}{(w-c)^{k+1}}}\\,dw\\\\&={\\frac {1}{2\\pi i}}\\int _{\\gamma }{\\frac {f(w)}{w-c}}\\sum _{k=0}^{\\infty }\\left({\\frac {z-c}{w-c}}\\right)^{k}\\,dw\\\\&={\\frac {1}{2\\pi i}}\\int _{\\gamma }{\\frac {f(w)}{w-c}}\\left({\\frac {1}{1-{\\frac {z-c}{w-c}}}}\\right)\\,dw\\\\&={\\frac {1}{2\\pi i}}\\int _{\\gamma }{\\frac {f(w)}{w-z}}\\,dw=f(z),\\end{aligned}}\n```\n\n<Callout title=\"Tip\">\n\n    You can actually copy equations on Wikipedia, they will be converted into a KaTeX string when you paste it.\n\n```math\n\\displaystyle S[{\\boldsymbol {q}}]=\\int _{a}^{b}L(t,{\\boldsymbol {q}}(t),{\\dot {\\boldsymbol {q}}}(t))\\,dt.\n```\n\n</Callout>\n",
-            "matter": "---\ntitle: Math\ndescription: Writing math equations in Markdown/MDX.\n---\n"
-        }
-    },
-    {
-        "info": {
-            "path": "ui/markdown/mermaid.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/markdown/mermaid.mdx"
-        },
-        "lastModified": null,
-        "data": {
-            "title": "Mermaid",
-            "description": "Rendering diagrams in your docs",
-            "index": false
-        },
-        "content": {
-            "body": "\nFumadocs doesn't have a built-in Mermaid wrapper provided, we recommend using `mermaid` directly.\n\n## Setup\n\nInstall the required dependencies, `next-themes` is used with Fumadocs to manage the light/dark mode.\n\n```package-install\nmermaid next-themes\n```\n\nCreate the Mermaid component:\n\n<include cwd meta='title=\"components/mdx/mermaid.tsx\"'>\n  ./components/mdx/mermaid.tsx\n</include>\n\n> This is originally inspired by [remark-mermaid](https://github.com/the-guild-org/docs/blob/main/packages/remark-mermaid/src/mermaid.tsx).\n\nAdd the component as a MDX component:\n\n```tsx title=\"mdx-components.tsx\"\nimport defaultMdxComponents from 'fumadocs-ui/mdx';\nimport { Mermaid } from '@/components/mdx/mermaid';\nimport type { MDXComponents } from 'mdx/types';\n\nexport function getMDXComponents(components?: MDXComponents): MDXComponents {\n  return {\n    ...defaultMdxComponents,\n    Mermaid,\n    ...components,\n  };\n}\n```\n\n## Usage\n\nUse it in MDX files.\n\n```mdx\n<Mermaid\n  chart=\"\ngraph TD;\nsubgraph AA [Consumers]\nA[Mobile app];\nB[Web app];\nC[Node.js client];\nend\nsubgraph BB [Services]\nE[REST API];\nF[GraphQL API];\nG[SOAP API];\nend\nZ[GraphQL API];\nA --> Z;\nB --> Z;\nC --> Z;\nZ --> E;\nZ --> F;\nZ --> G;\"\n/>\n```\n\n<Tabs items={['Diagram', 'User Journey']}>\n\n    <Tab>\n    <Mermaid\n        chart=\"\n\ngraph TD;\nsubgraph AA [Consumers]\nA[Mobile app];\nB[Web app];\nC[Node.js client];\nend\nsubgraph BB [Services]\nE[REST API];\nF[GraphQL API];\nG[SOAP API];\nend\nZ[GraphQL API];\nA --> Z;\nB --> Z;\nC --> Z;\nZ --> E;\nZ --> F;\nZ --> G;\"\n/>\n\n</Tab>\n\n    <Tab>\n        <Mermaid\n            chart=\"\n\njourney\ntitle My working day\nsection Go to work\nMake tea: 5: Me\nGo upstairs: 3: Me\nDo work: 1: Me, Cat\nsection Go home\nGo downstairs: 5: Me\nSit down: 5: Me\n\"\n/>\n\n    </Tab>\n\n</Tabs>\n",
-            "matter": "---\ntitle: Mermaid\ndescription: Rendering diagrams in your docs\n---\n"
-        }
-    },
-    {
-        "info": {
-            "path": "ui/markdown/twoslash.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/markdown/twoslash.mdx"
-        },
-        "lastModified": null,
-        "data": {
-            "title": "Twoslash",
-            "description": "Use Typescript Twoslash in your docs",
-            "index": false
-        },
-        "content": {
-            "body": "\n## Usage\n\nThanks to the Twoslash integration of [Shiki](https://github.com/shikijs/shiki), the default code syntax highlighter, it is as simple as adding a transformer.\n\n```package-install\nfumadocs-twoslash twoslash\n```\n\nFor Next.js, you need to externalize the following deps:\n\n```js title=\"next.config.mjs (Next.js)\"\nconst config = {\n  reactStrictMode: true,\n  // [!code ++]\n  serverExternalPackages: ['typescript', 'twoslash'],\n};\n```\n\nAdd to your Shiki transformers.\n\n```ts twoslash title=\"source.config.ts (Fumadocs MDX)\"\nimport { defineConfig } from 'fumadocs-mdx/config';\nimport { transformerTwoslash } from 'fumadocs-twoslash';\nimport { rehypeCodeDefaultOptions } from 'fumadocs-core/mdx-plugins';\n\nexport default defineConfig({\n  mdxOptions: {\n    rehypeCodeOptions: {\n      themes: {\n        light: 'github-light',\n        dark: 'github-dark',\n      },\n      transformers: [\n        ...(rehypeCodeDefaultOptions.transformers ?? []),\n        transformerTwoslash(),\n      ],\n    },\n  },\n});\n```\n\nAdd styles, Tailwind CSS v4 is required.\n\n```css title=\"Tailwind CSS\"\n@import 'fumadocs-twoslash/twoslash.css';\n```\n\nAdd MDX components.\n\n```tsx title=\"mdx-components.tsx\"\nimport * as Twoslash from 'fumadocs-twoslash/ui';\nimport defaultComponents from 'fumadocs-ui/mdx';\nimport type { MDXComponents } from 'mdx/types';\n\nexport function getMDXComponents(components?: MDXComponents): MDXComponents {\n  return {\n    ...defaultComponents,\n    ...Twoslash,\n    ...components,\n  };\n}\n```\n\nNow you can add `twoslash` meta string to codeblocks.\n\n````md\n```ts twoslash\nconsole.log('Hello World');\n```\n````\n\n### Example\n\nLearn more about [Twoslash notations](https://twoslash.netlify.app/refs/notations).\n\n```ts twoslash title=\"Test\" lineNumbers\ntype Player = {\n  /**\n   * The player name\n   * @default 'user'\n   */\n  name: string;\n};\n\n// ---cut---\n// @noErrors\nconsole.g;\n//       ^|\n\nconst player: Player = { name: 'Hello World' };\n//    ^?\n```\n\n```ts twoslash\nconst a = '123';\n\nconsole.log(a);\n//      ^^^\n```\n\n```ts twoslash\nimport { generateFiles } from 'fumadocs-openapi';\n\nvoid generateFiles({\n  input: ['./museum.yaml'],\n  output: './content/docs/ui',\n});\n```\n\n```ts twoslash\n// @errors: 2588\nconst a = '123';\n\na = 132;\n```\n\n## Cache\n\nYou can enable filesystem cache with `typesCache` option:\n\n```ts twoslash title=\"source.config.ts\"\nimport { transformerTwoslash } from 'fumadocs-twoslash';\nimport { createFileSystemTypesCache } from 'fumadocs-twoslash/cache-fs';\n\ntransformerTwoslash({\n  typesCache: createFileSystemTypesCache(),\n});\n```\n",
-            "matter": "---\ntitle: Twoslash\ndescription: Use Typescript Twoslash in your docs\n---\n"
-        }
-    },
-    {
-        "info": {
             "path": "ui/mdx/codeblock.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/mdx/codeblock.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/mdx/codeblock.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Code Block",
             "description": "Displaying Shiki highlighted code blocks",
@@ -8081,9 +7937,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/mdx/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/mdx/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/mdx/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "MDX",
             "description": "Default MDX Components",
@@ -8097,9 +7953,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/navigation/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/navigation/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/navigation/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Navigation",
             "description": "Configure navigation in your Fumadocs app.",
@@ -8113,9 +7969,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/navigation/links.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/navigation/links.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/navigation/links.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Layout Links",
             "description": "Customise the shared navigation links on all layouts.",
@@ -8129,9 +7985,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/navigation/sidebar.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/navigation/sidebar.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/navigation/sidebar.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Sidebar Links",
             "description": "Customise sidebar navigation links on Docs Layout.",
@@ -8144,10 +8000,154 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     },
     {
         "info": {
-            "path": "ui/search/algolia.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/search/algolia.mdx"
+            "path": "ui/markdown/index.mdx",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/markdown/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
+        "data": {
+            "title": "Markdown",
+            "description": "How to write documents",
+            "index": false
+        },
+        "content": {
+            "body": "\n## Introduction\n\nFumadocs provides many useful extensions to MDX, a markup language. Here is a brief introduction to the default MDX syntax of Fumadocs.\n\n> MDX is not the only supported format of Fumadocs. In fact, you can use any renderers such as `next-mdx-remote` or CMS.\n\n## MDX\n\nWe recommend MDX, a superset of Markdown with JSX syntax.\nIt allows you to import components, and use them in the document, or even writing JavaScript.\n\nSee:\n\n- [MDX Syntax](https://mdxjs.com/docs/what-is-mdx/#mdx-syntax).\n- GFM (GitHub Flavored Markdown) is also supported, see [GFM Specification](https://github.github.com/gfm).\n\n```mdx\n---\ntitle: This is a document\n---\n\nimport { Component } from './component';\n\n<Component name=\"Hello\" />\n\n# Heading\n\n## Heading\n\n### Heading\n\n#### Heading\n\nHello World, **Bold**, _Italic_, ~~Hidden~~\n\n1. First\n2. Second\n3. Third\n\n- Item 1\n- Item 2\n\n> Quote here\n\n![alt](/image.png)\n\n| Table | Description |\n| ----- | ----------- |\n| Hello | World       |\n```\n\n### Auto Links\n\nInternal links use the `<Link />` component of your React framework (e.g. `next/link`) to allow prefetching and avoid hard-reload.\n\nExternal links will get the default `rel=\"noreferrer noopener\" target=\"_blank\"` attributes for security.\n\n```mdx\n[My Link](https://github.github.com/gfm)\n\nThis also works: https://github.github.com/gfm.\n```\n\n### Cards\n\nUseful for adding links.\n\n```mdx\nimport { HomeIcon } from 'lucide-react';\n\n<Cards>\n  <Card\n    href=\"https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating\"\n    title=\"Fetching, Caching, and Revalidating\"\n  >\n    Learn more about caching in Next.js\n  </Card>\n  <Card title=\"href is optional\">Learn more about `fetch` in Next.js.</Card>\n  <Card icon={<HomeIcon />} href=\"/\" title=\"Home\">\n    You can include icons too.\n  </Card>\n</Cards>\n```\n\n<Cards>\n  <Card\n    href=\"https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating\"\n    title=\"Fetching, Caching, and Revalidating\"\n  >\n    Learn more about caching in Next.js\n  </Card>\n  <Card title=\"href is optional\">Learn more about `fetch` in Next.js.</Card>\n  <Card icon={<HomeIcon />} href=\"/\" title=\"Home\">\n    You can include icons too.\n  </Card>\n</Cards>\n\n#### \"Further Reading\" Section\n\nYou can do something like:\n\n```tsx title=\"page.tsx\"\nimport { getPageTreePeers } from 'fumadocs-core/server';\nimport { source } from '@/lib/source';\n\n<Cards>\n  {getPageTreePeers(source.pageTree, '/docs/my-page').map((peer) => (\n    <Card key={peer.url} title={peer.name} href={peer.url}>\n      {peer.description}\n    </Card>\n  ))}\n</Cards>;\n```\n\nThis will show the other pages in the same folder as cards.\n\n<DocsCategory url=\"/docs/ui/navigation\" />\n\n### Callouts\n\nUseful for adding tips/warnings, it is included by default. You can specify the type of callout:\n\n- `info` (default)\n- `warn`/`warning`\n- `error`\n- `success`\n\n```mdx\n<Callout>Hello World</Callout>\n\n<Callout title=\"Title\">Hello World</Callout>\n\n<Callout title=\"Title\" type=\"error\">\n  Hello World\n</Callout>\n```\n\n<Callout>Hello World</Callout>\n\n<Callout title=\"Title\" type=\"warn\">\n  Hello World\n</Callout>\n\n<Callout title=\"Title\" type=\"error\">\n  Hello World\n</Callout>\n\n### Headings\n\nAn anchor is automatically applied to each heading, it sanitizes invalid characters like spaces. (e.g. `Hello World` to `hello-world`)\n\n```md\n# Hello `World`\n```\n\n#### TOC Settings\n\nThe table of contents (TOC) will be generated based on headings, you can also customise the effects of headings:\n\n```md\n# Heading [!toc]\n\nThis heading will be hidden from TOC.\n\n# Another Heading [toc]\n\nThis heading will **only** be visible in TOC, you can use it to add additional TOC items.\nLike headings rendered in a React component:\n\n<MyComp />\n```\n\n#### Custom Anchor\n\nYou can add `[#slug]` to customise heading anchors.\n\n```md\n# heading [#my-heading-id]\n```\n\nYou can also chain it with TOC settings like:\n\n```md\n# heading [toc] [#my-heading-id]\n```\n\nTo link people to a specific heading, add the heading id to hash fragment: `/page#my-heading-id`.\n\n### Codeblock\n\nSyntax Highlighting is supported by default using [Rehype Code](/docs/headless/mdx/rehype-code).\n\n````mdx\n```js\nconsole.log('Hello World');\n```\n\n```js title=\"My Title\"\nconsole.log('Hello World');\n```\n````\n\n#### Line Numbers\n\nShow line numbers, it also works with Twoslash and other transformers.\n\n````mdx tab=\"Input\"\n```ts twoslash lineNumbers\nconst a = 'Hello World';\n//    ^?\nconsole.log(a); // [!code highlight]\n```\n````\n\n```ts twoslash lineNumbers tab=\"Output\"\nconst a = 'Hello World';\n//    ^?\nconsole.log(a); // [!code highlight]\n```\n\nYou can set the initial value of line numbers.\n\n````mdx tab=\"Input\"\n```js lineNumbers=4\nfunction main() {\n  console.log('starts from 4');\n\n  return 0;\n}\n```\n````\n\n```js lineNumbers=4 tab=\"Output\"\nfunction main() {\n  console.log('starts from 4');\n\n  return 0;\n}\n```\n\n#### Shiki Transformers\n\nWe support some of the [Shiki Transformers](https://shiki.style/packages/transformers), allowing you to highlight/style specific lines.\n\n````md tab=\"Input\"\n```tsx\n// highlight a line\n<div>Hello World</div> // [\\!code highlight]\n\n// highlight a word\n// [\\!code word:Fumadocs]\n<div>Fumadocs</div>\n\n// diff styles\nconsole.log('hewwo'); // [\\!code --]\nconsole.log('hello'); // [\\!code ++]\n\n// focus\nreturn new ResizeObserver(() => {}) // [\\!code focus]\n```\n````\n\n```tsx tab=\"Output\"\n// highlight a line\n<div>Hello World</div> // [!code highlight]\n\n// highlight a word\n// [!code word:Fumadocs]\n<div>Fumadocs</div>\n\n// diff styles:\nconsole.log('hewwo'); // [!code --]\nconsole.log('hello'); // [!code ++]\n\n// focus\nreturn new ResizeObserver(() => {}) // [!code focus]\n```\n\n#### Tab Groups\n\n````mdx\n```ts tab=\"Tab 1\"\nconsole.log('A');\n```\n\n```ts tab=\"Tab 2\"\nconsole.log('B');\n```\n````\n\n```ts tab=\"Tab 1\"\nconsole.log('A');\n```\n\n```ts tab=\"Tab 2\"\nconsole.log('B');\n```\n\nWhile disabled by default, you use MDX in tab values by configuring the remark plugin:\n\n```ts tab=\"Fumadocs MDX\" title=\"source.config.ts\"\nimport { defineConfig } from 'fumadocs-mdx/config';\n\nexport default defineConfig({\n  mdxOptions: {\n    remarkCodeTabOptions: {\n      parseMdx: true, // [!code ++]\n    },\n  },\n});\n```\n\n```ts tab=\"MDX Compiler\"\nimport { compile } from '@mdx-js/mdx';\nimport { remarkCodeTab } from 'fumadocs-core/mdx-plugins';\n\nawait compile('...', {\n  remarkPlugins: [\n    [\n      remarkCodeTab,\n      {\n        parseMdx: true, // [!code ++]\n      },\n    ],\n  ],\n});\n```\n\n````mdx\n```ts tab=\"<Building /> Tab 1\"\nconsole.log('A');\n```\n\n```ts tab=\"<Rocket /> Tab 2\"\nconsole.log('B');\n```\n````\n\n```ts tab=\"<Building /> Tab 1\"\nconsole.log('A');\n```\n\n```ts tab=\"<Rocket /> Tab 2\"\nconsole.log('B');\n```\n\n### Include\n\n> This is only available on **Fumadocs MDX**.\n\nReference another file (can also be a Markdown/MDX document).\nSpecify the target file path in `<include>` tag (relative to the MDX file itself).\n\n```mdx title=\"page.mdx\"\n<include>./another.mdx</include>\n```\n\nSee [other usages of include](/docs/mdx/include).\n\n### NPM Commands\n\nUseful for generating commands for installing packages with different package managers.\n\n````md tab=\"Input\"\n```npm\nnpm i next -D\n```\n````\n\n```npm tab=\"Output\"\nnpm i next -D\n```\n\nWhen using Fumadocs MDX, you can customise it like:\n\n```tsx title=\"source.config.ts\"\nimport { defineConfig } from 'fumadocs-mdx/config';\n\nexport default defineConfig({\n  mdxOptions: {\n    remarkNpmOptions: {\n      // ...\n    },\n  },\n});\n```\n\n### Other Components\n\nYou can configure & use the [built-in components](/docs/ui/components) in your MDX document, such as Tabs, Accordions and Zoomable Image.\n\n## Additional Features\n\nYou may be interested:\n\n<DocsCategory />\n",
+            "matter": "---\ntitle: Markdown\ndescription: How to write documents\n---\n"
+        }
+    },
+    {
+        "info": {
+            "path": "ui/markdown/math.mdx",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/markdown/math.mdx"
+        },
+        "lastModified": "2025-08-21T05:45:54.000Z",
+        "data": {
+            "title": "Math",
+            "description": "Writing math equations in Markdown/MDX.",
+            "index": false
+        },
+        "content": {
+            "body": "\n## Getting Started\n\n```package-install\nremark-math rehype-katex katex\n```\n\n### Add Plugins\n\nAdd the required remark/rehype plugins, the code might be vary depending on your content source.\n\n```ts title=\"source.config.ts\" tab=\"Fumadocs MDX\"\nimport rehypeKatex from 'rehype-katex';\nimport remarkMath from 'remark-math';\nimport { defineConfig } from 'fumadocs-mdx/config';\n\nexport default defineConfig({\n  mdxOptions: {\n    remarkPlugins: [remarkMath],\n    // Place it at first, it should be executed before the syntax highlighter\n    rehypePlugins: (v) => [rehypeKatex, ...v],\n  },\n});\n```\n\n### Add Stylesheet\n\nAdd the following to root layout to make it looks great:\n\n```tsx title=\"layout.tsx\"\nimport 'katex/dist/katex.css';\n```\n\n### Done\n\nType some TeX expression in your documents, like the Pythagoras theorem:\n\n````mdx\nInline: $$c = \\pm\\sqrt{a^2 + b^2}$$\n\n```math\nc = \\pm\\sqrt{a^2 + b^2}\n```\n````\n\nInline: $$c = \\pm\\sqrt{a^2 + b^2}$$\n\n```math\nc = \\pm\\sqrt{a^2 + b^2}\n```\n\nTaylor Expansion (expressing holomorphic function $$f(x)$$ in power series):\n\n```math\n\\displaystyle {\\begin{aligned}T_{f}(z)&=\\sum _{k=0}^{\\infty }{\\frac {(z-c)^{k}}{2\\pi i}}\\int _{\\gamma }{\\frac {f(w)}{(w-c)^{k+1}}}\\,dw\\\\&={\\frac {1}{2\\pi i}}\\int _{\\gamma }{\\frac {f(w)}{w-c}}\\sum _{k=0}^{\\infty }\\left({\\frac {z-c}{w-c}}\\right)^{k}\\,dw\\\\&={\\frac {1}{2\\pi i}}\\int _{\\gamma }{\\frac {f(w)}{w-c}}\\left({\\frac {1}{1-{\\frac {z-c}{w-c}}}}\\right)\\,dw\\\\&={\\frac {1}{2\\pi i}}\\int _{\\gamma }{\\frac {f(w)}{w-z}}\\,dw=f(z),\\end{aligned}}\n```\n\n<Callout title=\"Tip\">\n\n    You can actually copy equations on Wikipedia, they will be converted into a KaTeX string when you paste it.\n\n```math\n\\displaystyle S[{\\boldsymbol {q}}]=\\int _{a}^{b}L(t,{\\boldsymbol {q}}(t),{\\dot {\\boldsymbol {q}}}(t))\\,dt.\n```\n\n</Callout>\n",
+            "matter": "---\ntitle: Math\ndescription: Writing math equations in Markdown/MDX.\n---\n"
+        }
+    },
+    {
+        "info": {
+            "path": "ui/markdown/mermaid.mdx",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/markdown/mermaid.mdx"
+        },
+        "lastModified": "2025-08-21T05:45:54.000Z",
+        "data": {
+            "title": "Mermaid",
+            "description": "Rendering diagrams in your docs",
+            "index": false
+        },
+        "content": {
+            "body": "\nFumadocs doesn't have a built-in Mermaid wrapper provided, we recommend using `mermaid` directly.\n\n## Setup\n\nInstall the required dependencies, `next-themes` is used with Fumadocs to manage the light/dark mode.\n\n```package-install\nmermaid next-themes\n```\n\nCreate the Mermaid component:\n\n<include cwd meta='title=\"components/mdx/mermaid.tsx\"'>\n  ./components/mdx/mermaid.tsx\n</include>\n\n> This is originally inspired by [remark-mermaid](https://github.com/the-guild-org/docs/blob/main/packages/remark-mermaid/src/mermaid.tsx).\n\nAdd the component as a MDX component:\n\n```tsx title=\"mdx-components.tsx\"\nimport defaultMdxComponents from 'fumadocs-ui/mdx';\nimport { Mermaid } from '@/components/mdx/mermaid';\nimport type { MDXComponents } from 'mdx/types';\n\nexport function getMDXComponents(components?: MDXComponents): MDXComponents {\n  return {\n    ...defaultMdxComponents,\n    Mermaid,\n    ...components,\n  };\n}\n```\n\n## Usage\n\nUse it in MDX files.\n\n```mdx\n<Mermaid\n  chart=\"\ngraph TD;\nsubgraph AA [Consumers]\nA[Mobile app];\nB[Web app];\nC[Node.js client];\nend\nsubgraph BB [Services]\nE[REST API];\nF[GraphQL API];\nG[SOAP API];\nend\nZ[GraphQL API];\nA --> Z;\nB --> Z;\nC --> Z;\nZ --> E;\nZ --> F;\nZ --> G;\"\n/>\n```\n\n<Tabs items={['Diagram', 'User Journey']}>\n\n    <Tab>\n    <Mermaid\n        chart=\"\n\ngraph TD;\nsubgraph AA [Consumers]\nA[Mobile app];\nB[Web app];\nC[Node.js client];\nend\nsubgraph BB [Services]\nE[REST API];\nF[GraphQL API];\nG[SOAP API];\nend\nZ[GraphQL API];\nA --> Z;\nB --> Z;\nC --> Z;\nZ --> E;\nZ --> F;\nZ --> G;\"\n/>\n\n</Tab>\n\n    <Tab>\n        <Mermaid\n            chart=\"\n\njourney\ntitle My working day\nsection Go to work\nMake tea: 5: Me\nGo upstairs: 3: Me\nDo work: 1: Me, Cat\nsection Go home\nGo downstairs: 5: Me\nSit down: 5: Me\n\"\n/>\n\n    </Tab>\n\n</Tabs>\n",
+            "matter": "---\ntitle: Mermaid\ndescription: Rendering diagrams in your docs\n---\n"
+        }
+    },
+    {
+        "info": {
+            "path": "ui/markdown/twoslash.mdx",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/markdown/twoslash.mdx"
+        },
+        "lastModified": "2025-08-21T05:45:54.000Z",
+        "data": {
+            "title": "Twoslash",
+            "description": "Use Typescript Twoslash in your docs",
+            "index": false
+        },
+        "content": {
+            "body": "\n## Usage\n\nThanks to the Twoslash integration of [Shiki](https://github.com/shikijs/shiki), the default code syntax highlighter, it is as simple as adding a transformer.\n\n```package-install\nfumadocs-twoslash twoslash\n```\n\nFor Next.js, you need to externalize the following deps:\n\n```js title=\"next.config.mjs (Next.js)\"\nconst config = {\n  reactStrictMode: true,\n  // [!code ++]\n  serverExternalPackages: ['typescript', 'twoslash'],\n};\n```\n\nAdd to your Shiki transformers.\n\n```ts twoslash title=\"source.config.ts (Fumadocs MDX)\"\nimport { defineConfig } from 'fumadocs-mdx/config';\nimport { transformerTwoslash } from 'fumadocs-twoslash';\nimport { rehypeCodeDefaultOptions } from 'fumadocs-core/mdx-plugins';\n\nexport default defineConfig({\n  mdxOptions: {\n    rehypeCodeOptions: {\n      themes: {\n        light: 'github-light',\n        dark: 'github-dark',\n      },\n      transformers: [\n        ...(rehypeCodeDefaultOptions.transformers ?? []),\n        transformerTwoslash(),\n      ],\n    },\n  },\n});\n```\n\nAdd styles, Tailwind CSS v4 is required.\n\n```css title=\"Tailwind CSS\"\n@import 'fumadocs-twoslash/twoslash.css';\n```\n\nAdd MDX components.\n\n```tsx title=\"mdx-components.tsx\"\nimport * as Twoslash from 'fumadocs-twoslash/ui';\nimport defaultComponents from 'fumadocs-ui/mdx';\nimport type { MDXComponents } from 'mdx/types';\n\nexport function getMDXComponents(components?: MDXComponents): MDXComponents {\n  return {\n    ...defaultComponents,\n    ...Twoslash,\n    ...components,\n  };\n}\n```\n\nNow you can add `twoslash` meta string to codeblocks.\n\n````md\n```ts twoslash\nconsole.log('Hello World');\n```\n````\n\n### Example\n\nLearn more about [Twoslash notations](https://twoslash.netlify.app/refs/notations).\n\n```ts twoslash title=\"Test\" lineNumbers\ntype Player = {\n  /**\n   * The player name\n   * @default 'user'\n   */\n  name: string;\n};\n\n// ---cut---\n// @noErrors\nconsole.g;\n//       ^|\n\nconst player: Player = { name: 'Hello World' };\n//    ^?\n```\n\n```ts twoslash\nconst a = '123';\n\nconsole.log(a);\n//      ^^^\n```\n\n```ts twoslash\nimport { generateFiles } from 'fumadocs-openapi';\n\nvoid generateFiles({\n  input: ['./museum.yaml'],\n  output: './content/docs/ui',\n});\n```\n\n```ts twoslash\n// @errors: 2588\nconst a = '123';\n\na = 132;\n```\n\n## Cache\n\nYou can enable filesystem cache with `typesCache` option:\n\n```ts twoslash title=\"source.config.ts\"\nimport { transformerTwoslash } from 'fumadocs-twoslash';\nimport { createFileSystemTypesCache } from 'fumadocs-twoslash/cache-fs';\n\ntransformerTwoslash({\n  typesCache: createFileSystemTypesCache(),\n});\n```\n",
+            "matter": "---\ntitle: Twoslash\ndescription: Use Typescript Twoslash in your docs\n---\n"
+        }
+    },
+    {
+        "info": {
+            "path": "ui/layouts/docs.mdx",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/layouts/docs.mdx"
+        },
+        "lastModified": "2025-08-21T05:45:54.000Z",
+        "data": {
+            "title": "Docs Layout",
+            "description": "The layout of documentation",
+            "index": false
+        },
+        "content": {
+            "body": "\nThe layout of documentation pages, it includes a sidebar and mobile-only navbar.\n\n> It is a server component, you should not reference it in a client component.\n\n## Usage\n\nPass your page tree to the component.\n\n```tsx title=\"layout.tsx\"\nimport { DocsLayout } from 'fumadocs-ui/layouts/docs';\nimport { baseOptions } from '@/lib/layout.shared';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  return (\n    <DocsLayout {...baseOptions()} tree={tree}>\n      {children}\n    </DocsLayout>\n  );\n}\n```\n\n<AutoTypeTable\n  path=\"./content/docs/ui/props.ts\"\n  type=\"Omit<DocsLayoutProps, 'children' | 'disableThemeSwitch'>\"\n/>\n\n## Sidebar\n\n```tsx title=\"layout.tsx\"\nimport { DocsLayout } from 'fumadocs-ui/layouts/docs';\n\n<DocsLayout\n  sidebar={{\n    enabled: true,\n    // replace the default sidebar\n    // component:\n  }}\n/>;\n```\n\n> See [Sidebar Links](/docs/ui/navigation/sidebar) for customising sidebar items.\n\n<AutoTypeTable path=\"./content/docs/ui/props.ts\" name=\"SidebarProps\" />\n\n## Nav\n\nA mobile-only navbar, we recommend to customise it from `baseOptions`.\n\n<div className='max-w-[460px] mx-auto'>\n\n![Docs Nav](/docs/docs-nav.png)\n\n</div>\n\n```tsx\nimport type { BaseLayoutProps } from 'fumadocs-ui/layouts/shared';\n\nexport const baseOptions: BaseLayoutProps = {\n  githubUrl: 'https://github.com/fuma-nama/fumadocs',\n  nav: {\n    title: 'My App',\n  },\n};\n```\n\n<AutoTypeTable\n  path=\"./content/docs/ui/props.ts\"\n  type=\"Omit<NavbarProps, 'children'>\"\n/>\n\n### Transparent Mode\n\nTo make the navbar background transparent, you can configure transparent mode.\n\n```tsx\nimport type { BaseLayoutProps } from 'fumadocs-ui/layouts/shared';\n\nexport const baseOptions: BaseLayoutProps = {\n  nav: {\n    transparentMode: 'top',\n  },\n};\n```\n\n| Mode     | Description                              |\n| -------- | ---------------------------------------- |\n| `always` | Always use a transparent background      |\n| `top`    | When at the top of page                  |\n| `none`   | Disable transparent background (default) |\n\n### Replace Navbar\n\nTo replace the navbar in Docs Layout, set `nav.component` to your own component.\n\n```tsx title=\"layout.tsx\"\nimport { baseOptions } from '@/lib/layout.shared';\nimport { DocsLayout } from 'fumadocs-ui/layouts/notebook';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  return (\n    <DocsLayout\n      {...baseOptions()}\n      nav={{\n        component: <CustomNavbar />,\n      }}\n    >\n      {children}\n    </DocsLayout>\n  );\n}\n```\n\nFumadocs uses **CSS Variables** to share the size of layout components, and fit each layout component into appropriate position.\n\nYou need to override `--fd-nav-height` to the exact height of your custom navbar, this can be done with a CSS stylesheet (e.g. in `global.css`):\n\n```css\n:root {\n  --fd-nav-height: 80px !important;\n}\n```\n\n## Advanced\n\n### Disable Prefetching\n\nBy default, it uses the `<Link />` component of your React framework with prefetch enabled.\n\nOn Vercel, prefetch requests may cause a higher usage of serverless functions and Data Cache.\nIt can also hit the limits of some other hosting platforms.\n\nYou can disable prefetching to reduce the amount of prefetch requests.\n\n```tsx\nimport { DocsLayout } from 'fumadocs-ui/layouts/docs';\n\n<DocsLayout sidebar={{ prefetch: false }} />;\n```\n",
+            "matter": "---\ntitle: Docs Layout\ndescription: The layout of documentation\n---\n"
+        }
+    },
+    {
+        "info": {
+            "path": "ui/layouts/home-layout.mdx",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/layouts/home-layout.mdx"
+        },
+        "lastModified": "2025-08-21T05:45:54.000Z",
+        "data": {
+            "title": "Home Layout",
+            "description": "Shared layout for other pages",
+            "index": false
+        },
+        "content": {
+            "body": "\n## Usage\n\nAdd a navbar and search dialog across other pages.\n\n```tsx title=\"/app/(home)/layout.tsx\"\nimport { HomeLayout } from 'fumadocs-ui/layouts/home';\nimport { baseOptions } from '@/lib/layout.shared';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  return <HomeLayout {...baseOptions()}>{children}</HomeLayout>;\n}\n```\n\nWe recommend to customise it from [`baseOptions`](/docs/ui/navigation/links).\n",
+            "matter": "---\ntitle: Home Layout\ndescription: Shared layout for other pages\n---\n"
+        }
+    },
+    {
+        "info": {
+            "path": "ui/layouts/notebook.mdx",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/layouts/notebook.mdx"
+        },
+        "lastModified": "2025-08-21T05:45:54.000Z",
+        "data": {
+            "title": "Notebook",
+            "description": "A more compact version of Docs Layout",
+            "index": false
+        },
+        "content": {
+            "body": "\n![Notebook](/docs/notebook.png)\n\n## Usage\n\nEnable the notebook layout with `fumadocs-ui/layouts/notebook`, it's a more compact layout than the default one.\n\n```tsx title=\"layout.tsx\"\nimport { DocsLayout } from 'fumadocs-ui/layouts/notebook'; // [!code highlight]\nimport { baseOptions } from '@/lib/layout.shared';\nimport { source } from '@/lib/source';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  return (\n    <DocsLayout {...baseOptions()} tree={source.pageTree}>\n      {children}\n    </DocsLayout>\n  );\n}\n```\n\n## Configurations\n\nThe options are inherited from [Docs Layout](/docs/ui/layouts/docs), with minor differences:\n\n- sidebar/navbar cannot be replaced, Notebook layout is more opinionated than the default one.\n- additional options (see below).\n\n### Tab Mode\n\nConfigure the style of sidebar tabs.\n\n![Notebook](/docs/notebook-tab-mode.png)\n\n```tsx title=\"layout.tsx\"\nimport { DocsLayout } from 'fumadocs-ui/layouts/notebook';\nimport { baseOptions } from '@/lib/layout.shared';\nimport { source } from '@/lib/source';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  return (\n    <DocsLayout\n      {...baseOptions()}\n      tabMode=\"navbar\" // [!code ++]\n      tree={source.pageTree}\n    >\n      {children}\n    </DocsLayout>\n  );\n}\n```\n\n### Nav Mode\n\nConfigure the style of navbar.\n\n![Notebook](/docs/notebook-nav-mode.png)\n\n```tsx title=\"layout.tsx\"\nimport { DocsLayout } from 'fumadocs-ui/layouts/notebook';\nimport { baseOptions } from '@/lib/layout.shared';\nimport { source } from '@/lib/source';\nimport type { ReactNode } from 'react';\n\nexport default function Layout({ children }: { children: ReactNode }) {\n  const { nav, ...base } = baseOptions();\n\n  return (\n    <DocsLayout\n      {...base}\n      nav={{ ...nav, mode: 'top' }} // [!code ++]\n      tree={source.pageTree}\n    >\n      {children}\n    </DocsLayout>\n  );\n}\n```\n",
+            "matter": "---\ntitle: Notebook\ndescription: A more compact version of Docs Layout\n---\n"
+        }
+    },
+    {
+        "info": {
+            "path": "ui/layouts/page.mdx",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/layouts/page.mdx"
+        },
+        "lastModified": "2025-08-21T05:45:54.000Z",
+        "data": {
+            "title": "Docs Page",
+            "description": "A page in your documentation",
+            "index": false
+        },
+        "content": {
+            "body": "\nPage is the base element of a documentation, it includes Table of contents,\nFooter, and Breadcrumb.\n\n## Usage\n\n```tsx title=\"page.tsx\"\nimport {\n  DocsPage,\n  DocsDescription,\n  DocsTitle,\n  DocsBody,\n} from 'fumadocs-ui/page';\n\n<DocsPage>\n  <DocsTitle>title</DocsTitle>\n  <DocsDescription>description</DocsDescription>\n  <DocsBody>\n    <h2>This heading looks good!</h2>\n    It applies the Typography styles, wrap your content here.\n  </DocsBody>\n</DocsPage>;\n```\n\n<Callout type='info' title='Good to know'>\n\nInstead of rendering the title with `DocsTitle` in `page.tsx`, you can put the title into MDX file.\nThis will render the title in the MDX body.\n\n</Callout>\n\n### Edit on GitHub\n\nYou can also add your own component.\n\n```tsx\nimport { DocsBody } from 'fumadocs-ui/page';\n\n<DocsBody>\n  <a\n    href={`https://github.com/fuma-nama/fumadocs/blob/main/content/docs/${page.path}`}\n    rel=\"noreferrer noopener\"\n    target=\"_blank\"\n    className=\"w-fit border rounded-xl p-2 font-medium text-sm text-fd-secondary-foreground bg-fd-secondary transition-colors hover:text-fd-accent-foreground hover:bg-fd-accent\"\n  >\n    Edit on GitHub\n  </a>\n</DocsBody>;\n```\n\n## Configurations\n\n### Full Mode\n\nTo extend the page to fill up all available space, pass `full` to the page component.\nThis will force TOC to be shown as a popover.\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\n\n<DocsPage full>...</DocsPage>;\n```\n\n### Table of Contents\n\nAn overview of all the headings in your article, it requires an array of headings.\n\nFor Markdown and MDX documents, You can obtain it using the\n[TOC Utility](/docs/headless/utils/get-toc). Content sources like Fumadocs MDX offer this out-of-the-box.\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\n\n<DocsPage toc={headings}>...</DocsPage>;\n```\n\nYou can customise or disable it with the `tableOfContent` option, or with `tableOfContentPopover` on smaller devices.\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\n\n<DocsPage tableOfContent={options} tableOfContentPopover={options}>\n  ...\n</DocsPage>;\n```\n\n<AutoTypeTable path=\"./content/docs/ui/props.ts\" name=\"TOCProps\" />\n\n#### Style\n\nYou can choose another style for TOC, like `clerk` inspired by https://clerk.com:\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\n\n<DocsPage\n  tableOfContent={{\n    style: 'clerk',\n  }}\n>\n  ...\n</DocsPage>;\n```\n\n### Last Updated Time\n\nDisplay last updated time of the page.\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\n\n<DocsPage lastUpdate={new Date(lastModifiedTime)} />;\n```\n\nSince you might use different version controls (e.g. Github) or CMS like Sanity, Fumadocs UI doesn't display the last updated time by\ndefault.\n\n<Tabs items={['Fumadocs MDX', 'GitHub API']}>\n\n    <Tab>\n\nYou can enable [`lastModifiedTime`](/docs/mdx/last-modified).\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\nimport { source } from '@/lib/source';\nconst page = source.getPage(['...']);\n\n<DocsPage lastUpdate={new Date(page.data.lastModified)} />;\n```\n\n    </Tab>\n\n    <Tab>\n\nFor Github hosted documents, you can use\nthe [`getGithubLastEdit`](/docs/headless/utils/git-last-edit) utility.\n\n```tsx\nimport { DocsPage } from 'fumadocs-ui/page';\nimport { getGithubLastEdit } from 'fumadocs-core/server';\n\nconst time = await getGithubLastEdit({\n  owner: 'fuma-nama',\n  repo: 'fumadocs',\n  path: `content/docs/${page.path}`,\n});\n\n<DocsPage lastUpdate={new Date(time)} />;\n```\n\n    </Tab>\n\n</Tabs>\n\n### Footer\n\nFooter is a navigation element that has two buttons to jump to the next and previous pages. When not specified, it shows the neighbour pages found from page tree.\n\nCustomise the footer with the `footer` option.\n\n```tsx\nimport { DocsPage, DocsBody } from 'fumadocs-ui/page';\n\n<DocsPage footer={options}>\n  <DocsBody>...</DocsBody>\n</DocsPage>;\n```\n\n<AutoTypeTable path=\"./content/docs/ui/props.ts\" name=\"FooterProps\" />\n\n### Breadcrumb\n\nA navigation element, shown only when user is navigating in folders.\n\n<AutoTypeTable path=\"./content/docs/ui/props.ts\" name=\"BreadcrumbProps\" />\n",
+            "matter": "---\ntitle: Docs Page\ndescription: A page in your documentation\n---\n"
+        }
+    },
+    {
+        "info": {
+            "path": "ui/layouts/root-provider.mdx",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/layouts/root-provider.mdx"
+        },
+        "lastModified": "2025-08-21T05:45:54.000Z",
+        "data": {
+            "title": "Root Provider",
+            "description": "The context provider of Fumadocs UI.",
+            "index": false
+        },
+        "content": {
+            "body": "\nThe context provider of all the components, including `next-themes` and context\nfor search dialog. It should be located at the root layout.\n\n## Usage\n\n```jsx\nimport { RootProvider } from 'fumadocs-ui/provider';\n\nexport default function Layout({ children }) {\n  return (\n    <html lang=\"en\">\n      <body>\n        <RootProvider>{children}</RootProvider>\n      </body>\n    </html>\n  );\n}\n```\n\n### Search Dialog\n\nCustomize or disable the search dialog with `search` option.\n\n```jsx\n<RootProvider\n  search={{\n    enabled: false,\n  }}\n>\n  {children}\n</RootProvider>\n```\n\nLearn more from [Search](/docs/ui/search).\n\n### Theme Provider\n\nFumadocs supports light/dark modes with [`next-themes`](https://github.com/pacocoursey/next-themes).\nCustomise or disable it with `theme` option.\n\n```jsx\n<RootProvider\n  theme={{\n    enabled: false,\n  }}\n>\n  {children}\n</RootProvider>\n```\n",
+            "matter": "---\ntitle: Root Provider\ndescription: The context provider of Fumadocs UI.\n---\n"
+        }
+    },
+    {
+        "info": {
+            "path": "ui/search/algolia.mdx",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/search/algolia.mdx"
+        },
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Algolia",
             "description": "Using Algolia with Fumadocs UI.",
@@ -8161,9 +8161,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/search/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/search/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/search/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Search",
             "description": "Implement document search in your docs",
@@ -8177,9 +8177,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/search/mixedbread.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/search/mixedbread.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/search/mixedbread.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Mixedbread",
             "description": "Using Mixedbread with Fumadocs UI.",
@@ -8193,9 +8193,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/search/orama-cloud.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/search/orama-cloud.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/search/orama-cloud.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Orama Cloud",
             "description": "Using Orama Cloud with Fumadocs UI.",
@@ -8209,9 +8209,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/search/orama.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/search/orama.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/search/orama.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Orama (default)",
             "description": "The default search engine powered by Orama.",
@@ -8225,9 +8225,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/(integrations)/vite/react-router.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/(integrations)/vite/react-router.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/(integrations)/vite/react-router.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "React Router",
             "description": "Use Fumadocs MDX with React Router",
@@ -8241,9 +8241,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/(integrations)/vite/tanstack.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/(integrations)/vite/tanstack.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/(integrations)/vite/tanstack.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Tanstack Start",
             "description": "Use Fumadocs MDX with Tanstack Start & Router",
@@ -8257,9 +8257,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/(integrations)/vite/waku.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/(integrations)/vite/waku.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/(integrations)/vite/waku.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Waku",
             "description": "Use Fumadocs MDX with Waku",
@@ -8273,9 +8273,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/openapi/configurations.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/openapi/configurations.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/openapi/configurations.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Configurations",
             "description": "Customise Fumadocs OpenAPI",
@@ -8289,9 +8289,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/openapi/index.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/openapi/index.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/openapi/index.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "OpenAPI",
             "description": "Generating docs for OpenAPI schema",
@@ -8305,9 +8305,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/openapi/media-adapters.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/openapi/media-adapters.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/openapi/media-adapters.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Media Adapters",
             "description": "Support other media types",
@@ -8321,9 +8321,9 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/openapi/proxy.mdx",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/openapi/proxy.mdx"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/openapi/proxy.mdx"
         },
-        "lastModified": null,
+        "lastModified": "2025-08-21T05:45:54.000Z",
         "data": {
             "title": "Creating Proxy",
             "description": "Avoid CORS problem",
@@ -8338,7 +8338,7 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/meta.json"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/meta.json"
         },
         "data": {
             "pages": [
@@ -8352,7 +8352,7 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "cli/meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/cli/meta.json"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/cli/meta.json"
         },
         "data": {
             "title": "Fumadocs CLI",
@@ -8364,7 +8364,7 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/meta.json"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/meta.json"
         },
         "data": {
             "title": "Fumadocs Core",
@@ -8394,7 +8394,7 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "mdx/meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/mdx/meta.json"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/mdx/meta.json"
         },
         "data": {
             "title": "Fumadocs MDX",
@@ -8423,24 +8423,8 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     },
     {
         "info": {
-            "path": "openapi/meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/openapi/meta.json"
-        },
-        "data": {
-            "title": "OpenAPI Example",
-            "pages": [
-                "index",
-                "...(generated)"
-            ],
-            "description": "A demo for Fumadocs OpenAPI",
-            "root": true,
-            "icon": "Shapes"
-        }
-    },
-    {
-        "info": {
             "path": "ui/meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/meta.json"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/meta.json"
         },
         "data": {
             "title": "Framework",
@@ -8470,8 +8454,24 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     },
     {
         "info": {
+            "path": "openapi/meta.json",
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/openapi/meta.json"
+        },
+        "data": {
+            "title": "OpenAPI Example",
+            "pages": [
+                "index",
+                "...(generated)"
+            ],
+            "description": "A demo for Fumadocs OpenAPI",
+            "root": true,
+            "icon": "Shapes"
+        }
+    },
+    {
+        "info": {
             "path": "headless/components/meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/components/meta.json"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/components/meta.json"
         },
         "data": {
             "title": "Components",
@@ -8483,7 +8483,7 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/mdx/meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/mdx/meta.json"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/mdx/meta.json"
         },
         "data": {
             "title": "MDX Plugins"
@@ -8492,7 +8492,7 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "headless/utils/meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/headless/utils/meta.json"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/headless/utils/meta.json"
         },
         "data": {
             "title": "Utilities",
@@ -8504,7 +8504,7 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/search/meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/search/meta.json"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/search/meta.json"
         },
         "data": {
             "pages": [
@@ -8516,7 +8516,7 @@ const docs = __TURBOPACK__imported__module__$5b$project$5d2f$packages$2f$mdx$2f$
     {
         "info": {
             "path": "ui/(integrations)/openapi/meta.json",
-            "absolutePath": "/home/tom/www2026/8_server/vercel/fumadocs/src/mydoc/content/docs/ui/(integrations)/openapi/meta.json"
+            "absolutePath": "/home/tom/www2026/8_server/vercel/mydoc.site/src/mydoc/content/docs/ui/(integrations)/openapi/meta.json"
         },
         "data": {
             "pages": [
