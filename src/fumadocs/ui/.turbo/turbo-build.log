@@ -1,9 +1,0 @@
-
-
-> fumadocs-ui@15.6.0 build /home/tom/www2026/0_common/js/fumodocs-20250721/packages/ui
-> pnpm build:layout && pnpm build:tailwind
-
-
-> fumadocs-ui@15.6.0 build:layout /home/tom/www2026/0_common/js/fumodocs-20250721/packages/ui
-> tsc --project tsconfig.build.json && tsc-alias -p tsconfig.build.json
-
